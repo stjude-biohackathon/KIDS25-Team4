@@ -1,5 +1,6 @@
 import streamlit as st
 import json
+import pandas as pd
 
 # Page configuration
 st.set_page_config(page_title="WGS mtDNA Pipeline", layout="wide")
@@ -29,7 +30,7 @@ with col3:
     project_name = st.text_input("Project Name", placeholder="e.g., Patient_001", help="Unique identifier for this analysis")
     
 with col4:
-    output_dir = st.text_input("Output Directory", value="/results/", help="Path where results will be saved")
+    output_dir = st.text_input("Output Directory", value="results/", help="Path where results will be saved")
 
 # Reference Genome - hg38 only
 st.header("3. Reference Genome")
@@ -129,5 +130,15 @@ if st.button("Submit Analysis", type="primary"):
         # This is where backend integration would happen
         st.info("These parameters are ready to be passed to the Nextflow pipeline")
         
-        # Show what the backend person needs
-        st.code(json.dumps(parameters, indent=2), language="json")
+        # Write all parameters to a JSON file for backend processing
+        with open("wgs_mito_pipeline_parameters.json", "w") as json_file:
+            json.dump(parameters, json_file, indent=2)
+        
+        # Create a CSV sample sheet named Mit_WGS_SampleSheet.csv
+        sample_sheet = pd.DataFrame({
+            "Sample_Name": [project_name, project_name],
+            "Sample_Type": ["Normal", "Tumor"],
+            "BAM": [germline_bam.name if germline_bam else "", \
+                tumor_bam.name if tumor_bam else ""]
+        })
+        sample_sheet.to_csv("Mit_WGS_SampleSheet.csv", index=False, sep="\t", header=False)
