@@ -1,0 +1,10 @@
+name: nf_mitvar
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10.0
+  - nextflow=21.10.6
+  - samtools=1.12
+  - bwa=0.7.17

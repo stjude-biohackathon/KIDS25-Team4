@@ -1,0 +1,3 @@
+bwa index -a bwtsw MT.fa
+bwa index -a bwtsw shiftedMT.fa
+

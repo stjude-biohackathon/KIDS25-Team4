@@ -1,0 +1,9 @@
+name: annot_python2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2.7
+  - scipy
+  - numpy

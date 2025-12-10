@@ -1,0 +1,1040 @@
+Position	Locus	Disease	Allele	Nucleotide Change/RNA	Amino AcidChange	Homoplasmy	Heteroplasmy	Status	GB Frequency	References
+72	MT-CR	Protective factor for stroke risk (hg V)	72TC	T-C	noncoding	nr	nr	Reported	1123 (642)	1
+114	MT-CR	BD-associated	114CT	C-T	noncoding	+	-	Reported	262 (122)	1
+146	MT-CR	Absence of Endometriosis	146TC	T-C	noncoding	+	-	Reported	11524 (10127)	1
+150	MT-CR	Longevity / Cervical Carcinoma / HPV infection risk	150CT	C-T	noncoding	+	+	Conflicting reports	7922 (7543)	9
+195	MT-CR	BD-associated / melanoma pts	195TC	T-C	noncoding	+	+	Reported	11580 (9351)	3
+309	MT-CR	AD-weakly associated	309_310insC	C-CC	noncoding	nr	nr	Reported	695 (981)	1
+309	MT-CR	Higher in melanoma patient group	309_310insCC	C-CCC	noncoding	nr	nr	Reported	244 (37)	1
+310	MT-CR	Possible protective factor for normal tension glaucoma	310TC	T-C	noncoding			Reported	24473 (23173)	1
+315	MT-CR	Melanoma patients	315_316insC	C-CC	noncoding	nr	nr	Reported	18470 (16506)	1
+351	MT-CR	Patient with CPEO	351AG	A-G	noncoding	nr	nr	Reported	0 (2)	1
+499	MT-CR	Endometriosis / possible protective factor for high altitude sicknes	499GA	G-A	noncoding	+	-	Reported	2319 (1661)	2
+547	MT-CR	Tubulointerstitial kidney disease	547AT	A-T	noncoding	+	-	Reported	0 (0)	1
+573	MT-CR	Absence of Endometriosis	573_574insCC	C-CCC	noncoding	+	-	Reported	664 (22)	1
+576	MT-CR	Hearing loss patient	576AG	A-G	noncoding MT-TF precursor	nr	nr	Reported	3 (10)	1
+3308	MT-ND1	MELAS / DEAF enhancer / hypertension / LVNC / putative LHON	3308TC	T-C	M1T	-	+	Reported - possibly synergistic; hg L1b and A2i marker	426 (0)	16
+3308	MT-ND1	Sudden Infant Death	3308TG	T-G	M1Term	+	+	Reported	6 (0)	1
+3310	MT-ND1	Diabetes / HCM	3310CT	C-T	P2S	+	+	Reported	13 (0)	7
+3316	MT-ND1	Diabetes / LHON / PEO / vascular dementia	3316GA	G-A	A4T	+	-	Reported; hg D1 D2 M33 R30 marker	574 (0)	22
+3335	MT-ND1	LHON	3335TC	T-C	I10T	+	-	Reported	61 (0)	1
+3336	MT-ND1	Carotid atherosclerosis risk	3336TC	T-C	I10I	-	+	Reported	226 (0)	3
+3337	MT-ND1	Cardiomyopathy	3337GA	G-A	V11M	+	-	Reported - possibly synergistic	100 (0)	2
+3340	MT-ND1	Encephaloneuromyopathy	3340CT	C-T	P12S	+	-	Reported	3 (0)	3
+3365	MT-ND1	EXIT	3365TC	T-C	L20P	-	+	Reported	0 (0)	1
+3376	MT-ND1	LHON MELAS overlap	3376GA	G-A	E24K	+	+	Cfrm [VUS*]	0 (0)	3
+3380	MT-ND1	MELAS	3380GA	G-A	R25Q	-	+	Reported [VUS]	2 (0)	2
+3388	MT-ND1	Materally Inherited Nonsyndromic Deafness	3388CA	C-A	L28M	nr	nr	Reported	30 (0)	1
+3391	MT-ND1	LHON	3391GA	G-A	G29S	+	-	Reported	54 (0)	1
+3394	MT-ND1	LHON / Diabetes / CPTdeficiency / high altitude adaptation	3394TC	T-C	Y30H	+	-	Reported [VUS] -population dependent; hg M9 marker	803 (0)	48
+3395	MT-ND1	LHON / HCM with hearing loss	3395AG	A-G	Y30C	+	+	Reported	29 (0)	10
+3396	MT-ND1	NSHL / MIDD	3396TC	T-C	Y30Y	+	-	Reported / Unclear	459 (0)	2
+3397	MT-ND1	ADPD / possibly LVNC-cardiomyopathy associated / resistance to high altitude pulmonary edema	3397AG	A-G	M31V	+	-	Reported	168 (0)	12
+3398	MT-ND1	DMDF+HCM / GDM / possibly LVNC cardiomyopathy-associated	3398TC	T-C	M31T	+	-	Reported	269 (0)	5
+3399	MT-ND1	Gestational Diabetes (GDM)	3399AT	A-T	M31I	+	-	Reported	26 (0)	1
+3407	MT-ND1	HCM / Muscle involvement	3407GA	G-A	R34H	+	-	Conflicting reports	1 (0)	4
+3418	MT-ND1	AMegL	3418AG	A-G	N38D	+	-	Reported	1 (0)	2
+3421	MT-ND1	MIDD	3421GA	G-A	V39I	+	-	Reported	80 (0)	2
+3437	MT-ND1	Mitochondrial myopathy, EXIT	3437GA	G-A	G44E	-	+	Reported	0 (0)	1
+3460	MT-ND1	LHON	3460GA	G-A	A52T	+	+	Cfrm [P]	31 (0)	227
+3461	MT-ND1	LHON	3461CT	C-T	A52V	nr	nr	Reported	0 (0)	2
+3472	MT-ND1	LHON	3472TC	T-C	F56L	+	+	Reported	5 (0)	7
+3481	MT-ND1	MELAS / Progressive Encephalomyopathy	3481GA	G-A	E59K	-	+	Cfrm [LP]	0 (0)	5
+3488	MT-ND1	LHON	3488TC	T-C	L61P	+	-	Reported	1 (0)	1
+3496	MT-ND1	LHON	3496GT	G-T	A64S	+	-	Reported / Secondary	11 (0)	3
+3497	MT-ND1	LHON	3497CT	C-T	A64V	+	-	Reported / Secondary	210 (0)	6
+3502	MT-ND1	Unspecified suspected mitochondrial disorder	3502TC	T-C	S66P	nr	nr	Reported	0 (0)	1
+3548	MT-ND1	Possible LHON helper (one 14484 patient)	3548TC	T-C	I81T	nr	nr	Reported	36 (0)	1
+3551	MT-ND1	LHON	3551CT	C-T	A82V	+	-	Reported	0 (0)	1
+3552	MT-ND1	Resistance to high altitude pulmonary edema (HAPE) / matrilineal hypertension	3552TA	T-A	A82A	+	-	Reported; hg C marker	2148 (0)	1
+3571	MT-ND1	Possible LHON helper mut.	3571CT	C-T	L89F	nr	nr	Reported	136 (0)	4
+3571	MT-ND1	Unspecified suspected mitochondrial disorder	3571del	C-del	frameshift	nr	nr	Reported	0 (0)	1
+3632	MT-ND1	LHON	3632CT	C-T	S109F	+	-	Reported	0 (0)	2
+3634	MT-ND1	LHON	3634AG	A-G	S110G	+	-	Reported	0 (0)	2
+3635	MT-ND1	LHON	3635GA	G-A	S110N	+	-	Cfrm [LP]	9 (0)	20
+3644	MT-ND1	BD-associated	3644TC	T-C	V113A	nr	nr	Reported	229 (0)	4
+3667	MT-ND1	Peripheral neuropathy of T2 diabetes	3667TG	T-G	W121G	+	-	Reported	1 (0)	1
+3685	MT-ND1	Leigh Syndrome	3685TC	T-C	Y127H	-	+	Reported	0 (0)	1
+3688	MT-ND1	Leigh Syndrome	3688GA	G-A	A128T	+	-	Cfrm [LP]	0 (0)	4
+3697	MT-ND1	MELAS / Leigh Syndrome / LDYT / BSN	3697GA	G-A	G131S	+	+	Cfrm [LP]	0 (0)	20
+3700	MT-ND1	LHON	3700GA	G-A	A132T	+	-	Cfrm [VUS*]	3 (0)	6
+3713	MT-ND1	LHON	3713TC	T-C	V136A	+	-	Reported	0 (0)	1
+3733	MT-ND1	LHON	3733GA	G-A	E143K	+	+	Cfrm [VUS*]	2 (0)	9
+3733	MT-ND1	LHON	3733GC	G-C	E143Q	-	+	Reported	0 (0)	1
+3734	MT-ND1	LHON	3734AG	A-G	E143G	+	-	Reported	1 (0)	2
+3736	MT-ND1	LHON	3736GA	G-A	V144I	nr	nr	Reported	108 (0)	2
+3745	MT-ND1	LHON / high altitude variant	3745GA	G-A	A147T	+	+	Reported / Population-dependent	120 (0)	4
+3761	MT-ND1	Deafness w relapsing/remitting neurological symptoms	3761CA	C-A	S152Term	-	+	Reported [VUS]	0 (0)	1
+3769	MT-ND1	LHON	3769CG	C-G	L155V	+	-	Reported	0 (0)	1
+3781	MT-ND1	LHON	3781TC	T-C	S159P	+	-	Reported	0 (0)	1
+3796	MT-ND1	Adult-Onset Dystonia	3796AG	A-G	T164A	-	+	Reported	289 (0)	5
+3833	MT-ND1	PEG	3833TA	T-A	L176Q	+	-	Reported	0 (0)	2
+3861	MT-ND1	SNHL + neurodevelopmental delay	3861AC	A-C	W185C	-	+	Reported	0 (0)	1
+3866	MT-ND1	LHON + limb claudication	3866TC	T-C	I187T	nr	nr	Reported / possibly synergistic	171 (0)	8
+3890	MT-ND1	Progressive Encephalomyopathy / Leigh Syndrome / Optic Atrophy	3890GA	G-A	R195Q	-	+	Cfrm [LP]	1 (0)	8
+3902	MT-ND1	EXIT+myalgia / severe LA+cardiac / 3-MGA aciduria / nephropathy+deafness+diabetes	3902_3908inv	ACCTTGC-GCAAGGT	DLA-GKV	-	+	Cfrm [LP]	0 (0)	6
+3919	MT-ND1	LHON	3919TC	T-C	S205P	+	-	Reported	0 (0)	1
+3945	MT-ND1	Leigh-like phenotype	3945CA	C-A	I213M	nr	nr	Reported	0 (0)	1
+3946	MT-ND1	MELAS	3946GA	G-A	E214K	+	+	Cfrm [LP]	1 (0)	12
+3949	MT-ND1	MELAS	3949TC	T-C	Y215H	-	+	Reported [VUS]	1 (0)	7
+3955	MT-ND1	Leigh Syndrome	3955GA	G-A	A217T	-	+	Reported	0 (0)	1
+3958	MT-ND1	LHON	3958GA	G-A	G218S	+	-	Reported	0 (0)	3
+3959	MT-ND1	MELAS	3959GA	G-A	G218D	nr	nr	Reported	0 (0)	1
+3995	MT-ND1	MELAS	3995AG	A-G	N230S	nr	nr	Reported	19 (0)	4
+4081	MT-ND1	LHON	4081TC	T-C	F259L	+	-	Reported	1 (0)	1
+4115	MT-ND1	Possible LHON helper (one 11778 patient)	4115TC	T-C	F270S	nr	nr	Reported	0 (0)	1
+4123	MT-ND1	LHON	4123AT	A-T	I273F	+	-	Reported	0 (0)	1
+4132	MT-ND1	NAION-associated	4132GA	G-A	A276T	+	-	Reported [VUS]	9 (0)	2
+4135	MT-ND1	LHON	4135TC	T-C	Y277H	-	+	Reported	27 (0)	1
+4136	MT-ND1	LHON	4136AG	A-G	Y277C	+	-	Reported - possibly synergistic	71 (0)	13
+4142	MT-ND1	Developmental delay, seizure, hypotonia	4142GA	G-A	R279Q	-	+	Reported	0 (0)	3
+4142	MT-ND1	Leigh Syndrome	4142GT	G-T	R279L	-	+	Reported	0 (0)	1
+4160	MT-ND1	LHON / LHON plus	4160TC	T-C	L285P	+	-	Reported - possibly synergistic	1 (0)	20
+4163	MT-ND1	LHON	4163TC	T-C	M286T	+	-	Reported	1 (0)	1
+4171	MT-ND1	LHON / Leigh-like phenotype	4171CA	C-A	L289M	+	+	Cfrm [VUS*]	2 (0)	16
+4175	MT-ND1	EXIT	4175GA	G-A	W290Term	-	+	Reported	0 (0)	1
+4216	MT-ND1	LHON / Insulin Resistance /possible adaptive high altitude variant / miscarriage	4216TC	T-C	Y304H	+	-	Conflicting reports	6406 (0)	52
+4491	MT-ND2	High altitude pulmonary edema susceptibility	4491GA	G-A	V8I	+	-	Reported	959 (0)	1
+4516	MT-ND2	Possible LHON modulator	4516GA	G-A	G16D	+	-	Reported	0 (0)	1
+4580	MT-ND2	Protective factor for stroke risk (hg V)	4580GA	G-A	M37M	nr	nr	Reported	1059 (0)	1
+4611	MT-ND2	Unspecified suspected mitochondrial disorder	4611del	A-del	M-Term	nr	nr	Reported	0 (0)	1
+4633	MT-ND2	LHON candidate	4633CG	C-G	A55G	+	-	Reported	0 (0)	1
+4640	MT-ND2	LHON / Epilepsy	4640CA	C-A	I57M	+	-	Reported	240 (0)	9
+4648	MT-ND2	PEG	4648TC	T-C	F60S	+	-	Reported	1 (0)	2
+4659	MT-ND2	possible PD risk factor / LHON	4659GA	G-A	A64T	+	-	Reported	102 (0)	3
+4681	MT-ND2	Leigh Syndrome	4681TC	T-C	L71P	-	+	Reported [VUS]	1 (0)	4
+4769	MT-ND2	SZ-associated	4769=	A-A	M100M	+	-	Reported	1285 (0)	2
+4810	MT-ND2	EXIT with myalgia & ophthalmoplegia	4810GA	G-A	W114Term	-	+	Cfrm [LP]	0 (0)	1
+4831	MT-ND2	Isolated myopathy	4831GA	G-A	G121D	-	+	Reported	1 (0)	2
+4833	MT-ND2	Diabetes helper mutation  AD, PD	4833AG	A-G	T122A	+	-	Reported	638 (0)	4
+4852	MT-ND2	LHON	4852TA	T-A	L128Q	+	-	Reported	0 (0)	1
+4883	MT-ND2	Glaucoma	4883CT	C-T	P138P	+	-	Conflicting reports	2771 (0)	2
+4917	MT-ND2	LHON / Insulin Resistance / AMD / NRTI-PN	4917AG	A-G	N150D	+	-	Reported	3102 (0)	28
+4924	MT-ND2	Possible LHON helper (one 11778 patient)	4924GT	G-T	S152I	nr	nr	Reported	0 (0)	1
+4935	MT-ND2	Lipomatosis+EXIT	4935AG	A-G	T156A	-	+	Reported	0 (0)	3
+4944	MT-ND2	High altitude pulmonary edema susceptibility	4944AG	A-G	I159V	+	-	Reported	10 (0)	1
+4959	MT-ND2	Possible LHON helper (one 11778 patient)	4959GA	G-A	A164T	nr	nr	Reported	68 (0)	1
+5001	MT-ND2	Developmental delay, seizure, cardiomyopathy, lactic acidosis	5001_5002insA	A-AA	frameshift	-	+	Reported [VUS]	0 (0)	3
+5095	MT-ND2	Proximal muscle weakness and atrophy	5095TC	T-C	I209T	nr	nr	Reported	18 (0)	1
+5133	MT-ND2	Exercise intolerance (EXIT)	5133_5134del	AA-del	frameshift	nr	nr	Reported [VUS]	0 (0)	5
+5153	MT-ND2	Recurrent pregnancy loss	5153AG	A-G	L228L	nr	nr	Reported	351 (0)	1
+5178	MT-ND2	Longevity / Extraversion / diabetes / AMS protection / blood iron metabolism / correlation with myocardial infarction / atherosclerosis	5178CA	C-A	L237M	+	+	Reported	2752 (0)	23
+5244	MT-ND2	LHON	5244GA	G-A	G259S	-	+	Reported [VUS]	0 (0)	8
+5367	MT-ND2	Unspecified suspected mitochondrial disorder	5367_5385del	ACCTCAATCACACTACTCC-del	frameshift	nr	nr	Reported	0 (0)	1
+5452	MT-ND2	Progressive Encephalomyopathy	5452CT	C-T	T328M	+	-	Reported	20 (0)	2
+5460	MT-ND2	AD / PD / LHON	5460GA	G-A	A331T	+	+	Conflicting reports	4082 (0)	10
+5460	MT-ND2	AD	5460GT	G-T	A331S	+	+	Reported	0 (0)	5
+5911	MT-CO1	Prostate Cancer	5911CT	C-T	A3V	+	-	Reported	259 (0)	1
+5913	MT-CO1	Prostate Cancer / hypertension	5913GA	G-A	D4N	+	-	Reported	543 (0)	3
+5920	MT-CO1	Myoglobinuria / EXIT	5920GA	G-A	W6Term	-	+	Cfrm [LP]	0 (0)	4
+5935	MT-CO1	Prostate Cancer	5935AG	A-G	N11S	+	-	Reported	1 (0)	1
+5973	MT-CO1	Prostate Cancer	5973GA	G-A	A24T	+	-	Reported	15 (0)	1
+6020	MT-CO1	Motor Neuron Disease	6020_6024del	CGAGC-del	AELGQ-AGPATerm	-	+	Reported	0 (0)	1
+6020	MT-CO1	Possible association with sepsis	6020CA	C-A	A39A	-	+	Reported	0 (0)	2
+6081	MT-CO1	Prostate Cancer	6081GA	G-A	A60T	+	-	Reported	1 (0)	1
+6145	MT-CO1	Unspecified suspected mitochondrial disorder	6145GA	G-A	W81Term	nr	nr	Reported	0 (0)	1
+6150	MT-CO1	Prostate Cancer / POAG (primary open-angle glaucoma) risk factor	6150GA	G-A	V83I	+	-	Reported	252 (0)	3
+6253	MT-CO1	Prostate Cancer / enriched in POAG cohort	6253TC	T-C	M117T	+	-	Reported	592 (0)	3
+6261	MT-CO1	Prostate Cancer / LHON	6261GA	G-A	A120T	+	-	Reported	496 (0)	4
+6267	MT-CO1	Prostate Cancer	6267GA	G-A	A122T	+	-	Reported	91 (0)	1
+6285	MT-CO1	Prostate Cancer	6285GA	G-A	V128I	+	-	Reported	130 (0)	1
+6307	MT-CO1	Asthenozoospermic infertility	6307AG	A-G	N135S	.	+	Reported	3 (0)	1
+6328	MT-CO1	EXIT (Exercise Intolerance)	6328CT	C-T	S142F	+	-	Reported [VUS]	0 (0)	2
+6340	MT-CO1	Prostate Cancer	6340CT	C-T	T146I	+	-	Reported	99 (0)	2
+6367	MT-CO1	Possible association with sepsis	6367TC	T-C	V155A	-	+	Reported	23 (0)	1
+6459	MT-CO1	Sepsis susceptibility	6459TC	T-C	W186R	+	-	Reported	0 (0)	2
+6474	MT-CO1	Maternally inherited childhood epilepsy and ataxia	6474AG	A-G	T191A	+	-	Reported	0 (0)	1
+6480	MT-CO1	Prostate Cancer / enriched in POAG cohort	6480GA	G-A	V193I	+	-	Reported	156 (0)	4
+6489	MT-CO1	CO1 deficiency with epilepsia partialis continua	6489CA	C-A	L196I	-	+	Reported	90 (0)	3
+6526	MT-CO1	Developmental delay, hypotonia, myopathy, failure to thrive	6526TC	T-C	M208T	nr	nr	Reported	0 (0)	1
+6544	MT-CO1	Possible association with sepsis	6544AC	A-C	N214T	-	+	Reported	0 (0)	1
+6547	MT-CO1	Leigh Syndrome	6547TC	T-C	L215P	-	+	Reported	4 (0)	4
+6579	MT-CO1	Leigh Syndrome	6579GA	G-A	G226Term	-	+	Reported	0 (0)	1
+6597	MT-CO1	MELAS-like syndrome	6597CA	C-A	Q232K	-	+	Reported	0 (0)	1
+6649	MT-CO1	Possible association with sepsis	6649CT	C-T	P249L	-	+	Reported	0 (0)	1
+6663	MT-CO1	Prostate Cancer	6663AG	A-G	I254V	+	-	Reported	198 (0)	3
+6698	MT-CO1	Myopathy	6698del	A-del	K-K_frameshift	-	+	Reported	0 (0)	1
+6708	MT-CO1	MM & Rhabdomyolysis	6708GA	G-A	G269Term	-	+	Reported	0 (0)	1
+6721	MT-CO1	Acquired Idiopathic Sideroblastic Anemia	6721TC	T-C	M273T	-	+	Reported [VUS]	0 (0)	2
+6742	MT-CO1	Acquired Idiopathic Sideroblastic Anemia	6742TC	T-C	I280T	-	+	Reported [VUS]	0 (0)	2
+6860	MT-CO1	Dilated Cardiomyopathy	6860AC	A-C	K319N	+	-	Reported	0 (0)	1
+6930	MT-CO1	Multisystem Disorder	6930GA	G-A	G343Term	-	+	Cfrm [LP]	0 (0)	3
+6955	MT-CO1	Mild EXIT and MR	6955GA	G-A	G351D	+	+	Reported	1 (0)	1
+6962	MT-CO1	Possible helper variant for 15927A	6962GA	G-A	L353L	+	-	Reported	1447 (0)	1
+7023	MT-CO1	MELAS-like syndrome	7023GA	G-A	V374M	-	+	Reported	1 (0)	1
+7041	MT-CO1	Prostate Cancer	7041GA	G-A	V380I	+	-	Reported	6 (0)	1
+7065	MT-CO1	Possible association with sepsis	7065GA	G-A	A388T	-	+	Reported	0 (0)	2
+7080	MT-CO1	Prostate Cancer	7080TC	T-C	F393L	+	-	Reported	68 (0)	1
+7083	MT-CO1	Prostate Cancer	7083AG	A-G	I394V	+	-	Reported	16 (0)	1
+7158	MT-CO1	Prostate Cancer	7158AG	A-G	I419V	+	-	Reported	46 (0)	1
+7222	MT-CO1	Mitochondrial myopathy	7222AG	A-G	Y440C	nr	nr	Reported	0 (0)	2
+7299	MT-CO1	LHON	7299AG	A-G	M466V	+	-	Reported	87 (0)	1
+7305	MT-CO1	Prostate Cancer	7305AC	A-C	M468L	+	-	Reported	0 (0)	1
+7379	MT-CO1	Possible association with sepsis	7379GA	G-A	L492L	-	+	Reported	23 (0)	1
+7402	MT-CO1	Isolated complex IV deficiency	7402del	C-del	frameshift	-	+	Reported	0 (0)	1
+7443	MT-CO1	DEAF	7443AG	A-G	Term514G	+	-	Reported [VUS]	1 (0)	4
+7444	MT-CO1	LHON / SNHL / DEAF modulator	7444GA	G-A	Term514K	+	-	Reported [LB]	213 (0)	40
+7445	MT-CO1	DEAF	7445AC	A-C	Term514S	+	-	Reported [VUS]	17 (0)	10
+7445	MT-CO1	SNHL	7445AG	A-G	Term514Term	+	+	Cfrm [P]	1 (0)	45
+7445	MT-CO1	SNHL	7445AT	A-T	Term514S	+	-	Reported [VUS]	3 (0)	1
+7587	MT-CO2	Mitochondrial Encephalomyopathy	7587TC	T-C	M1T	-	+	Cfrm [LP]	0 (0)	2
+7598	MT-CO2	Possible LHON helper variant	7598GA	G-A	A5T	-	+	Reported	636 (0)	2
+7623	MT-CO2	LHON	7623CT	C-T	T13I	+	-	Reported	0 (0)	1
+7630	MT-CO2	MELAS	7630del	T-del	frameshift	-	+	Reported	0 (0)	1
+7637	MT-CO2	PD risk factor / neurological impairment	7637GA	G-A	E18K	-	+	Reported [VUS]	2 (0)	2
+7671	MT-CO2	MM	7671TA	T-A	M29K	-	+	Reported [VUS]	0 (0)	2
+7695	MT-CO2	Cerebellar and pyramidal syndrome with cognitive impairment	7695TC	T-C	L37P	-	+	Reported	0 (0)	1
+7697	MT-CO2	Possible HCM susceptibility, high altitude adaptation	7697GA	G-A	V38I	+	-	Reported	311 (0)	5
+7706	MT-CO2	Alpers-Huttenlocher-like	7706GA	G-A	A41T	+	+	Reported	11 (0)	2
+7749	MT-CO2	Possible association with sepsis	7749TC	T-C	I55T	-	+	Reported	2 (0)	2
+7859	MT-CO2	Progressive Encephalomyopathy	7859GA	G-A	D92N	+	-	Reported	170 (0)	1
+7868	MT-CO2	LHON	7868CT	C-T	L95F	+	-	Reported - possibly synergistic	14 (0)	1
+7877	MT-CO2	PEG glaucoma	7877AC	A-C	K98Q	+	-	Reported	0 (0)	1
+7887	MT-CO2	Cerebellar ataxia + neuropathy + exercise intolerance	7887GA	G-A	G101D	-	+	Reported	0 (0)	1
+7896	MT-CO2	Multisystem Disorder	7896GA	G-A	W104Term	-	+	Cfrm [P]	0 (0)	3
+7943	MT-CO2	Possible association with sepsis	7943TC	T-C	S120P	-	+	Reported	0 (0)	2
+7965	MT-CO2	Hepatic failure / COX deficiency	7965TC	T-C	F127S	.	+	Reported	1 (0)	3
+7970	MT-CO2	Encephalopathy	7970GT	G-T	E129Term	-	+	Reported	0 (0)	1
+7989	MT-CO2	Rhabdomyolysis	7989TC	T-C	L135P	-	+	Reported [VUS]	0 (0)	2
+8010	MT-CO2	Developmental delay, ataxia, seizure, hypotonia, lactic acidosis	8010TC	T-C	V142A	-	+	Reported	2 (0)	1
+8021	MT-CO2	Asthenozoospermia	8021AG	A-G	I146V	+	-	Reported	4 (0)	1
+8042	MT-CO2	Lactic Acidosis	8042_8043del	AT-del	frameshift	-	+	Reported [VUS]	0 (0)	1
+8078	MT-CO2	DEAF	8078GA	G-A	V165I	+	-	Reported	28 (0)	2
+8088	MT-CO2	Mitochondrial myopathy with complex IV deficiency	8088del	T-del	frameshift	-	+	Cfrm [LP]	0 (0)	1
+8108	MT-CO2	SNHL	8108AG	A-G	I175V	+	-	Reported	74 (0)	1
+8119	MT-CO2	Biliary atresia	8119del	T-del	frameshift	-	+	Reported	0 (0)	1
+8156	MT-CO2	Multi-system mitochondrial disorder	8156del	G-del	frameshift	-	+	Reported	0 (0)	1
+8163	MT-CO2	Late-onset cerebellar ataxia	8163AG	A-G	Y193C	-	+	Reported	0 (0)	1
+8231	MT-CO2	Coronary artery disease risk factor	8231CA	C-A	L216M	-	+	Reported	0 (0)	1
+8241	MT-CO2	MIDD+retinopathy	8241TG	T-G	F219C	-	+	Conflicting reports	0 (0)	2
+8249	MT-CO2	Mitochondrial myopathy	8249GA	G-A	G222Term	+	-	Reported	0 (0)	2
+8381	MT-ATP8	MIDD / LVNC cardiomyopathy-assoc.	8381AG	A-G	T6A	+	-	Reported	16 (0)	2
+8382	MT-ATP8	Suspected mito disease / optic neuropathy	8382CT	C-T	T6I	-	+	Reported	9 (0)	2
+8393	MT-ATP8	Reversible brain pseudoatrophy	8393CT	C-T	P10S	-	+	Reported	311 (0)	2
+8403	MT-ATP8	Episodic weakness and progressive neuropathy	8403TC	T-C	I13T	+	-	Reported	4 (0)	1
+8411	MT-ATP8	Severe mitochondrial disorder	8411AG	A-G	M16V	+	-	Reported	2 (0)	1
+8412	MT-ATP8	Possible LHON helper mutation	8412TC	T-C	M16T	+	-	Reported	20 (0)	1
+8414	MT-ATP8	Increased risk of T2DM and high altitude polycythemia (HAPC) in haplogroup D4 / Longevity	8414CT	C-T	L17F	+	-	Reported	2307 (0)	3
+8418	MT-ATP8	Mitochondrial Respiratory Chain Disorder	8418TC	T-C	L18P	+	-	Reported	1 (0)	1
+8424	MT-ATP8	Suspected mito disease	8424TC	T-C	L20P	nr	nr	Reported	0 (0)	1
+8481	MT-ATP8	Tetralogy of Fallot patient	8481CT	C-T	P39L	+	-	Reported	10 (0)	1
+8490	MT-ATP8	Peripheral neuropathy of T2DM	8490TC	T-C	M42T	+	-	Reported	25 (0)	4
+8519	MT-ATP8	Possible susceptibility to bullous pemphigoid	8519GA	G-A	E52K	+	-	Reported	159 (0)	2
+8527	MT-ATP8/6	Neuromuscular disorder, possible helper mutation	8527AG	A-G	ATP8:K54K ATP6:M1M	+	-	Reported	245 (0)	1
+8528	MT-ATP8/6	Infantile cardiomyopathy / hyperammonemia	8528TC	T-C	ATP8:W55R ATP6:M1T	+	+	Cfrm [LP]	0 (0)	9
+8529	MT-ATP8/6	Apical HCM	8529GA	G-A	ATP8:W55Term ATP6:M1M	+	-	Reported	0 (0)	2
+8551	MT-ATP8/6	Possible LHON helper mutation	8551TC	T-C	ATP8:H62H ATP6:F9L	+	-	Reported	18 (0)	1
+8558	MT-ATP8/6	Possibly LVNC cardiomyopathy-associated	8558CT	C-T	ATP8:P65S ATP6:A11V	+	-	Reported	15 (0)	1
+8561	MT-ATP8/6	Ataxia w neuropathy, DM, SNHL, and hypogonadism	8561CG	C-G	ATP8:P66A ATP6:P12R	+	+	Reported	0 (0)	1
+8561	MT-ATP8/6	Ataxia w psychomotor delay	8561CT	C-T	ATP8:P66S ATP6:P12L	-	+	Reported	0 (0)	1
+8572	MT-ATP8/6	Spinocerebellar ataxia	8572GA	G-A	ATP8:Term69Term ATP6:G16S	+	-	Reported	214 (0)	1
+8573	MT-ATP6	Patient with suspected mitochondrial disease	8573GA	G-A	G16D	+	-	Reported by paper as Benign	66 (0)	1
+8578	MT-ATP6	Spinocerebellar ataxia	8578CT	C-T	P18S	+	-	Reported	31 (0)	1
+8597	MT-ATP6	Leigh Syndrome	8597TC	T-C	I24T	-	+	Reported	17 (0)	2
+8606	MT-ATP6	Possible association with sepsis	8606CT	C-T	P27L	-	+	Reported	0 (0)	2
+8608	MT-ATP6	Patient with suspected mitochondrial disease	8608CT	C-T	P28S	+	-	Reported	1 (0)	1
+8611	MT-ATP6	Ataxia, microcephaly, developmental delay, intellectual disability	8611_8612insC	C-CC	frameshift	-	+	Reported	0 (0)	2
+8612	MT-ATP6	Patient with suspected mitochondrial disease	8612TC	T-C	L29P	+	-	Reported	0 (0)	1
+8618	MT-ATP6	NARP/cognitive decline+abnormal brain MRI+impaired kidney function	8618_8619insT	T-TT	frameshift	-	+	Reported	0 (0)	4
+8639	MT-ATP6	Possible LHON modulator	8639TC	T-C	I38T	+	-	Reported	26 (0)	3
+8668	MT-ATP6	LHON	8668TC	T-C	W48R	+	-	Reported	36 (0)	1
+8691	MT-ATP6	Infantile mito disease w subclinical hypothyroidism	8691AG	A-G	K55K	nr	nr	Reported	7 (0)	2
+8719	MT-ATP6	Suspected mito disease	8719GA	G-A	G65Term	-	+	Reported	0 (0)	2
+8723	MT-ATP6	Patient with suspected mitochondrial disease	8723GT	G-T	R66L	99%	-	Reported	0 (0)	1
+8741	MT-ATP6	MILS protective factor	8741TG	T-G	L72R	-	+	Reported	0 (0)	1
+8779	MT-ATP6	Possible LHON modulator	8779CT	C-T	L85F	+	-	Reported	1 (0)	1
+8782	MT-ATP6	Cerebellar ataxia+diabetes+kidney disease / ataxia+myoclonic epilepsy	8782GA	G-A	G86Term	-	+	Reported	0 (0)	1
+8783	MT-ATP6	Unspecified suspected mitochondrial disorder	8783GA	G-A	G86E	nr	nr	Reported	1 (0)	1
+8794	MT-ATP6	Exercise Endurance / Coronary Atherosclerosis risk	8794CT	C-T	H90Y	+	-	Reported	1759 (0)	2
+8795	MT-ATP6	MILS protective factor	8795AG	A-G	H90R	-	+	Reported	0 (0)	1
+8806	MT-ATP6	Suspected mito disease	8806CG	C-G	P94A	nr	nr	Reported	0 (0)	1
+8812	MT-ATP6	Spinocerebellar ataxia	8812AG	A-G	T96A	-	+	Reported	75 (0)	1
+8821	MT-ATP6	Possible LHON helper variant	8821TG	T-G	S99A	nr	nr	Reported	0 (0)	1
+8836	MT-ATP6	LHON	8836AG	A-G	M104V	+	-	Reported	169 (0)	3
+8839	MT-ATP6	NARP syndrome	8839GC	G-C	A105P	-	+	Reported	0 (0)	3
+8843	MT-ATP6	Patient with suspected mitochondrial disease	8843TC	T-C	I106T	+	-	Reported by paper as Likely Benign	214 (0)	2
+8851	MT-ATP6	BSN / Leigh syndrome	8851TC	T-C	W109R	+	+	Cfrm [VUS*]	4 (0)	9
+8881	MT-ATP6	Patient with suspected mitochondrial disease	8881TC	T-C	S119P	nr	nr	Reported	3 (0)	1
+8890	MT-ATP6	Juvenile-onset metabolic syndrome	8890AG	A-G	K122E	-	+	Reported	0 (0)	1
+8902	MT-ATP6	Suspected mito disease	8902GA	G-A	A126T	nr	nr	Reported	9 (0)	1
+8909	MT-ATP6	Recurrent severe kidney disease and multiple systemic dysfunctions	8909TC	T-C	F128S	+	-	Reported	0 (0)	1
+8921	MT-ATP6	Patient with suspected mitochondrial disease	8921GA	G-A	G132D	+	-	Reported	9 (0)	1
+8932	MT-ATP6	Prostate tumor / Neuromuscular disorder	8932CT	C-T	P136S	+	-	Reported [B]	245 (0)	3
+8936	MT-ATP6	Atypical Leigh syndrome	8936TA	T-A	L137H	-	+	Reported [VUS]	1 (0)	1
+8938	MT-ATP6	Patient with suspected mitochondrial disease	8938AG	A-G	I138V	+	-	Reported	46 (0)	1
+8950	MT-ATP6	LDYT / Spinocerebellar Ataxia	8950GA	G-A	V142I	+	-	Reported	83 (0)	5
+8951	MT-ATP6	Patient with ataxia	8951TC	T-C	V142A	nr	nr	Reported	9 (0)	1
+8959	MT-ATP6	Developmental delay, intellectual disability, low citrilline	8959GA	G-A	E145K	+	+	Reported	3 (0)	2
+8969	MT-ATP6	Mitochondrial myopathy, lactic acidosis and sideroblastic anemia (MLASA) / IgG nephropathy	8969GA	G-A	S148N	-	+	Cfrm [LP]	1 (0)	7
+8969	MT-ATP6	Suspected mito disease	8969GC	G-C	S148T	nr	nr	Reported	0 (0)	1
+8975	MT-ATP6	Suspected mito disease	8975TC	T-C	L150P	nr	nr	Reported	23 (0)	1
+8989	MT-ATP6	NARP syndrome	8989GC	G-C	A155P	-	+	Reported	0 (0)	2
+8993	MT-ATP6	NARP / Leigh Disease / MILS / other	8993TC	T-C	L156P	-	+	Cfrm [P]	2 (0)	50
+8993	MT-ATP6	NARP / Leigh Disease / MILS / other	8993TG	T-G	L156R	+	+	Cfrm [P]	6 (0)	164
+8993	MT-ATP6	Developmental delay & myopathy	8993TGCA	TG-CA	L156P	+	+	Reported	0 (0)	1
+8999	MT-ATP6	Patient with suspected mitochondrial disease	8999TC	T-C	V158A	+	-	Reported	9 (0)	2
+9008	MT-ATP6	Suspected mito disease	9008CG	C-G	T161S	nr	nr	Reported	2 (0)	1
+9010	MT-ATP6	Unspecified neurological disorder	9010GA	G-A	A162T	-	+	Reported	28 (0)	1
+9016	MT-ATP6	LHON	9016AG	A-G	I164V	-	+	Reported	13 (0)	3
+9017	MT-ATP6	Unspecified neurological disorder	9017TC	T-C	I164T	-	+	Reported	14 (0)	1
+9019	MT-ATP6	Suspected mito disease	9019AG	A-G	T165A	nr	nr	Reported	0 (0)	1
+9025	MT-ATP6	Motor neuropathy, Leigh-like, colon cancer	9025GA	G-A	G167S	+	-	Reported	41 (0)	3
+9026	MT-ATP6	Spinocerebellar ataxia / patient with suspected mitochondrial disease	9026GA	G-A	G167D	-	+	Reported [VUS]	3 (0)	4
+9029	MT-ATP6	LHON-like	9029AG	A-G	H168R	+	+	Reported	1 (0)	5
+9032	MT-ATP6	NARP / Complex phenotype with microcephaly, ataxia, hearing loss, lactic acidosis	9032TC	T-C	L169P	-	+	Reported [VUS]	0 (0)	4
+9035	MT-ATP6	Ataxia syndromes	9035TC	T-C	L170P	+	+	Cfrm [LP]	0 (0)	6
+9041	MT-ATP6	Patient with suspected mitochondrial disease	9041AG	A-G	H172R	-	+	Reported	52 (0)	1
+9049	MT-ATP6	Unspecified suspected mitochondrial disorder	9049GA	G-A	G175Term	nr	nr	Reported	0 (0)	1
+9055	MT-ATP6	PD protective factor	9055GA	G-A	A177T	+	-	Reported [B]	2566 (0)	2
+9058	MT-ATP6	Patients with (1) LVNC cardiomyopathy; (2) autism, intellectual disability, epilepsy	9058AG	A-G	T178A	+	-	Reported as (1) possible association or as (2) benign	33 (0)	2
+9071	MT-ATP6	Potentially functional variant cosegregating with LHON3635A	9071CT	C-T	S182L	+	-	Reported	16 (0)	1
+9088	MT-ATP6	Patient with suspected mitochondrial disease	9088TC	T-C	S188P	-	+	Reported by paper as Likely Benign	25 (0)	1
+9098	MT-ATP6	Predisposition to anti-retroviral mito disease	9098TC	T-C	I191T	+	-	Reported	67 (0)	1
+9101	MT-ATP6	LHON	9101TC	T-C	I192T	+	-	Reported	62 (0)	9
+9115	MT-ATP6	Patient with suspected mitochondrial disease	9115AG	A-G	I197V	+	-	Reported	27 (0)	2
+9127	MT-ATP6	NARP	9127_9128del	AT-del	IL-PTerm	-	+	Reported	0 (0)	1
+9133	MT-ATP6	Patient with suspected mitochondrial disease	9133GA	G-A	E203K	+	-	Reported	4 (0)	1
+9134	MT-ATP6	Hypotonia, lactic acidosis, HCM, IUGR	9134AG	A-G	E203G	nr	nr	Reported	0 (0)	3
+9139	MT-ATP6	LHON	9139GA	G-A	A205T	+	-	Reported - possibly synergistic	50 (0)	2
+9152	MT-ATP6	Patient with suspected mitochondrial disease	9152TC	T-C	I209T	-	+	Reported [VUS]	17 (0)	1
+9154	MT-ATP6	Peripheral neuropathy ataxia IgA nephropathy	9154CT	C-T	Q210Term	-	+	Reported	0 (0)	3
+9155	MT-ATP6	MIDD, renal insufficiency	9155AG	A-G	Q210R	-	+	Cfrm [LP]	0 (0)	4
+9155	MT-ATP6	Developmental delay, intellectual disability, low citrilline	9155AT	A-T	Q210L	+	+	Reported	0 (0)	1
+9166	MT-ATP6	EXIT+more /  bilateral optic neuropathy	9166TC	T-C	F214L	+	+	Reported	0 (0)	2
+9176	MT-ATP6	FBSN / Leigh Disease / Spinocerebellar Ataxia	9176TC	T-C	L217P	+	+	Cfrm [P]	3 (0)	35
+9176	MT-ATP6	Leigh Disease / Spastic Paraplegia / Spinocerebellar Ataxia	9176TG	T-G	L217R	+	+	Cfrm [LP]	1 (0)	12
+9185	MT-ATP6	Leigh Disease / Ataxia syndromes / NARP-like disease / Episodic weakness and Charcot-Marie-Tooth	9185TC	T-C	L220P	+	+	Cfrm [P]	3 (0)	37
+9191	MT-ATP6	Leigh Disease	9191TC	T-C	L222P	-	+	Cfrm [LP]	0 (0)	5
+9205	MT-ATP6	Encephalopathy / Seizures / Lacticacidemia	9205_9206del	TA-del	Term-M	+	-	Cfrm [LP]	0 (0)	9
+9237	MT-CO3	Mitochondrial Respiratory Chain Disorder	9237GA	G-A	V11M	na	na	Reported	0 (0)	1
+9247	MT-CO3	MELAS	9247GC	G-C	S14T	nr	nr	Reported	0 (0)	1
+9266	MT-CO3	Possible association with sepsis	9266GT	G-T	G20G	-	+	Reported	1 (0)	2
+9267	MT-CO3	MIDD	9267GC	G-C	A21P	-	+	Reported	0 (0)	1
+9331	MT-CO3	Failure to thrive with metabolic acidosis, cognitive impairment, optic atrophy	9331TC	T-C	L42P	+	-	Reported	1 (0)	1
+9379	MT-CO3	MM w lactic acidosis	9379GA	G-A	W58Term	-	+	Reported [VUS]	0 (0)	1
+9387	MT-CO3	Asthenozoospermia	9387GA	G-A	V61M	-	+	Reported	0 (0)	1
+9399	MT-CO3	Patient with epilepsy, myopathy, hypoacusis, psychiatric disorders	9399AG	A-G	S65G	nr	nr	Reported	1 (0)	1
+9403	MT-CO3	Possible association with sepsis	9403CA	C-A	T66K	-	+	Reported	0 (0)	1
+9415	MT-CO3	Possible association with sepsis	9415AG	A-G	H70R	-	+	Reported	0 (0)	1
+9438	MT-CO3	LHON / gout	9438GA	G-A	G78S	+	-	Conflicting reports	761 (0)	14
+9444	MT-CO3	Possible LHON helper mutation	9444CT	C-T	R80W	+	-	Reported	1 (0)	1
+9478	MT-CO3	Leigh Disease	9478TC	T-C	V91A	-	+	Reported [VUS]	22 (0)	3
+9480	MT-CO3	Myoglobinuria	9480_9494del	TTTTTCTTCGCAGGA-del	FFFAG-del	-	+	Cfrm [LP], alt locus at 9487del15	0 (0)	5
+9487	MT-CO3	Myoglobinuria	9487_9501del	TCGCAGGATTTTTCT-del	FFAGFF-del	-	+	alt loc to 9480del15 [LP]	0 (0)	1
+9490	MT-CO3	Gout	9490CT	C-T	A95V	+	-	Reported	24 (0)	1
+9537	MT-CO3	Leigh Disease	9537_9538insC	C-CC	frameshift	+	-	Cfrm [LP]	0 (0)	2
+9544	MT-CO3	Sporadic bilateral optic neuropathy	9544GA	G-A	G113E	nr	nr	Reported	0 (0)	1
+9553	MT-CO3	Adult-onset MELAS	9553GA	G-A	W116Term	-	+	Reported	0 (0)	1
+9559	MT-CO3	Rhabdomyolysis	9559del	C-del	frameshift	-	+	Reported	0 (0)	1
+9660	MT-CO3	LHON	9660AC	A-C	M152L	+	-	Reported	0 (0)	1
+9738	MT-CO3	LHON	9738GT	G-T	A178S	+	-	Reported	0 (0)	1
+9789	MT-CO3	Myopathy	9789TC	T-C	S195P	-	+	Reported	0 (0)	1
+9804	MT-CO3	LHON / MS	9804GA	G-A	A200T	+	+	Reported [VUS]	181 (0)	13
+9856	MT-CO3	LVNC cardiomyopathy / gout	9856TC	T-C	I217T	+	-	Reported	21 (0)	2
+9861	MT-CO3	AD	9861TC	T-C	F219L	+	-	Reported	127 (0)	1
+9907	MT-CO3	Cavitating leukodystrophy	9907GA	G-A	G234D	-	+	Reported	0 (0)	1
+9921	MT-CO3	Possible LHON helper mutation	9921GA	G-A	A239T	+	-	Reported	67 (0)	1
+9952	MT-CO3	Mitochondrial Encephalopathy	9952GA	G-A	W249Term	-	+	Cfrm [LP]	0 (0)	1
+9957	MT-CO3	PEM / MELAS / NAION / HCM / gout	9957TC	T-C	F251L	-	+	Reported	47 (0)	9
+9966	MT-CO3	LHON possible helper variant	9966GA	G-A	V254I	nr	nr	Reported	401 (0)	1
+9972	MT-CO3	EXIT & APS2 - possible link	9972AC	A-C	I256L	-	+	Reported	2 (0)	1
+9984	MT-CO3	Suspected mito disease	9984GA	G-A	G260Term	nr	nr	Reported	0 (0)	2
+10086	MT-ND3	Hypertensive end-stage renal disease	10086AG	A-G	N10D	+	-	Reported	465 (0)	4
+10134	MT-ND3	Leigh Disease	10134CA	C-A	Q26K	-	+	Reported [VUS]	0 (0)	1
+10142	MT-ND3	Recurrent pregnancy loss	10142CT	C-T	N28N	nr	nr	Reported	697 (0)	1
+10158	MT-ND3	Leigh Disease / MELAS	10158TC	T-C	S34P	+	+	Cfrm [P]	0 (0)	35
+10189	MT-ND3	Behavior alteration with dilated cardiomyopathy	10189TC	T-C	M44T	-	+	Reported	1 (0)	1
+10191	MT-ND3	Leigh Disease / ESOC	10191TC	T-C	S45P	-	+	Cfrm [P]	0 (0)	33
+10197	MT-ND3	Leigh Disease / Dystonia / Stroke / LDYT	10197GA	G-A	A47T	+	+	Cfrm [P]	3 (0)	26
+10197	MT-ND3	Leigh Disease	10197GC	G-C	A47P	-	+	Reported	0 (0)	1
+10237	MT-ND3	LHON	10237TC	T-C	I60T	+	-	Reported	100 (0)	5
+10254	MT-ND3	Leigh Disease	10254GA	G-A	D66N	-	+	Cfrm [LP]	0 (0)	1
+10350	MT-ND3	LHON	10350CA	C-A	L98M	+	-	Reported	0 (0)	1
+10398	MT-ND3	Invasive Breast Cancer risk factor  AD  PD  BD lithium response  Type 2 DM	10398=	A-A	T114T	+	-	Reported; lineage N marker except  hg IJK	35215 (0)	21
+10398	MT-ND3	PD protective factor / longevity / altered cell pH / metabolic syndrome / breast cancer risk / Leigh Syndrome risk / ADHD / cognitive decline / SCA2 age of onset / Fuchs endothelial corneal dystrophy	10398AG	A-G	T114A	+	-	Reported; lineage L & M marker, also hg IJK	25902 (0)	39
+10543	MT-ND4L	LHON	10543AG	A-G	H25R	-	+	Reported	0 (0)	1
+10591	MT-ND4L	LHON	10591TG	T-G	F41C	-	+	Reported	0 (0)	1
+10609	MT-ND4L	Type 2 diabetes patients with underlying 3243G / LHON patient with 10663C	10609TC	T-C	M47T	nr	nr	Reported	1432 (0)	2
+10652	MT-ND4L	BD / MDD-associated	10652TC	T-C	I61I	-	+	Reported	57 (0)	1
+10663	MT-ND4L	LHON	10663TC	T-C	V65A	+	-	Cfrm [LP]	2 (0)	16
+10676	MT-ND4L	Type 2 cataract patients with underlying 3243G	10676CG	C-G	C69W	nr	nr	Reported	1 (0)	1
+10680	MT-ND4L	LHON / synergistic combo 10680A + 12033G + 14258A	10680GA	G-A	A71T	+	-	Reported / possibly synergistic	18 (0)	5
+11042	MT-ND4	Biliary atresia	11042TC	T-C	Y95H	-	+	Reported	0 (0)	1
+11048	MT-ND4	Biliary atresia	11048del	T-del	frameshift	-	+	Reported	0 (0)	1
+11084	MT-ND4	AD, PD  MELAS	11084AG	A-G	T109A	+	+	Conflicting reports	224 (0)	7
+11150	MT-ND4	Found in a Multiple Sclerosis patient	11150GA	G-A	A131T	+	-	Reported	151 (0)	1
+11232	MT-ND4	CPEO	11232TC	T-C	L158P	-	+	Reported	0 (0)	5
+11240	MT-ND4	Leigh Syndrome	11240CT	C-T	L161F	-	+	Reported	0 (0)	2
+11251	MT-ND4	Reduced risk of PD	11251AG	A-G	L164L	nr	nr	Reported	6014 (0)	2
+11253	MT-ND4	LHON  PD	11253TC	T-C	I165T	+	-	Reported	319 (0)	9
+11365	MT-ND4	found in HCM patient	11365TC	T-C	A202A	+	-	Reported	129 (0)	1
+11375	MT-ND4	found in sCJD patient	11375AC	A-C	K206Q	+	-	Reported	0 (0)	1
+11406	MT-ND4	MELAS	11406TA	T-A	L216H	-	+	Reported	0 (0)	1
+11467	MT-ND4	Altered brain pH / sCJD patients	11467AG	A-G	L236L	+	-	Reported	7901 (0)	3
+11470	MT-ND4	MELAS	11470AC	A-C	K237N	-	+	Reported	0 (0)	1
+11519	MT-ND4	ND4 mutation set found in a Multiple Sclerosis patient	11519AC	A-C	T254P	+	-	Reported	0 (0)	1
+11523	MT-ND4	ND4 mutation set found in a Multiple Sclerosis patient	11523AC	A-C	K255T	+	-	Reported	0 (0)	1
+11527	MT-ND4	ND4 mutation set found in a Multiple Sclerosis patient	11527CT	C-T	H256H	+	-	Reported	25 (0)	1
+11621	MT-ND4	CPEO, exercise intolerance	11621_11622del	TA-del	frameshift	-	+	Reported	0 (0)	2
+11696	MT-ND4	LHON / LDYT / DEAF / hypertension helper mut.	11696GA	G-A	V313I	+	+	Reported / possibly synergistic	365 (0)	17
+11777	MT-ND4	Leigh Disease	11777CA	C-A	R340S	-	+	Cfrm [LP]	0 (0)	13
+11778	MT-ND4	LHON / Progressive Dystonia	11778GA	G-A	R340H	+	+	Cfrm [P]	190 (0)	421
+11832	MT-ND4	EXIT / oncocytoma	11832GA	G-A	W358Term	-	+	Reported	0 (0)	6
+11874	MT-ND4	LHON	11874CA	C-A	T372N	+	-	Reported	0 (0)	2
+11914	MT-ND4	Possible susceptibility to bullous pemphigoid	11914GA	G-A	T385T	nr	nr	Reported	6436 (0)	1
+11919	MT-ND4	Thyroid Cancer Cell Line	11919CT	C-T	S387F	+	-	Reported	1 (0)	2
+11984	MT-ND4	Leigh Syndrome	11984TC	T-C	Y409H	+	-	Reported	63 (0)	2
+11994	MT-ND4	Oligoasthenoteratozoospermia (OAT)	11994CT	C-T	T412I	+	-	Conflicting reports	0 (0)	3
+12015	MT-ND4	Atypical MELAS	12015TC	T-C	L419P	-	+	Reported	3 (0)	2
+12026	MT-ND4	DM	12026AG	A-G	I423V	+	-	Reported	265 (0)	4
+12027	MT-ND4	SZ-associated	12027TC	T-C	I423T	nr	nr	Reported	2 (0)	2
+12033	MT-ND4	LHON synergistic combo 10680A + 12033G + 14258A	12033AG	A-G	N425S	+	-	Reported: individually neutral variants causing LHON in combination	22 (0)	1
+12063	MT-ND4	Recurrent pregnancy loss	12063CT	C-T	T435I	nr	nr	Reported	39 (0)	1
+12338	MT-ND5	DEAF1555 increased penetrance / LHON / MIDD	12338TC	T-C	M1T	+	-	Conflicting reports	201 (0)	12
+12350	MT-ND5	SNHL + neurodevelopmental delay	12350CA	C-A	T5N	-	+	Reported	0 (0)	1
+12361	MT-ND5	Non-alcoholic fatty liver disease	12361AG	A-G	T9A	+	-	Reported	391 (0)	2
+12372	MT-ND5	Altered brain pH / sCJD patients	12372GA	G-A	L12L	+	-	Reported	8474 (0)	4
+12397	MT-ND5	PD, early onset	12397AG	A-G	T21A	+	-	Reported	378 (0)	3
+12414	MT-ND5	EXIT	12414del	T-del	frameshift	nr	nr	Reported	0 (0)	1
+12425	MT-ND5	Mitochondrial myopathy & renal failure	12425del	A-del	frameshift	-	+	Cfrm [LP]	2 (0)	1
+12477	MT-ND5	Possible HCM susceptibility	12477TC	T-C	S47S	+	-	Reported	307 (0)	1
+12622	MT-ND5	Leigh Disease	12622GA	G-A	V96I	+	+	Conflicting reports	10 (0)	3
+12631	MT-ND5	found in 2 sCJD patients	12631TA	T-A	S99T	+	-	Reported	0 (0)	2
+12634	MT-ND5	Thyroid Cancer Cell Line	12634AG	A-G	I100V	+	+	Reported	242 (0)	3
+12662	MT-ND5	Recurrent pregnancy loss	12662AG	A-G	N109S	nr	nr	Reported	82 (0)	1
+12686	MT-ND5	Dilated Cardiomyopathy	12686TA	T-A	F117Y	+	-	Reported	0 (0)	1
+12705	MT-ND5	Possible protective factor for normal tension glaucoma	12705CT	C-T	I123I	nr	nr	Reported	24217 (0)	1
+12706	MT-ND5	Leigh Disease	12706TC	T-C	F124L	-	+	Cfrm [LP]	0 (0)	13
+12770	MT-ND5	MELAS	12770AG	A-G	E145G	-	+	Reported [VUS]	1 (0)	5
+12778	MT-ND5	Dilated Cardiomyopathy	12778GC	G-C	G148R	+	-	Reported	0 (0)	1
+12782	MT-ND5	LHON	12782TG	T-G	I149S	-	+	Reported	0 (0)	1
+12811	MT-ND5	Possible LHON factor	12811TC	T-C	Y159H	+	-	Reported [B]	681 (0)	11
+12814	MT-ND5	LHON	12814GT	G-T	A160S	+	-	Reported	3 (0)	1
+12848	MT-ND5	LHON	12848CT	C-T	A171V	-	+	Reported [VUS]	0 (0)	3
+12858	MT-ND5	Unspecified suspected mitochondrial disorder	12858CA	C-A	Y174Term	nr	nr	Reported	0 (0)	1
+12923	MT-ND5	LHON/MELAS/LS	12923GA	G-A	W196Term	nr	nr	Reported	0 (0)	1
+12955	MT-ND5	EXIT and developmental delay	12955AG	A-G	N207D	-	+	Reported	0 (0)	1
+13042	MT-ND5	Optic neuropathy/ retinopathy/ LD	13042GA	G-A	A236T	-	+	Cfrm [LP]	2 (0)	9
+13045	MT-ND5	MELAS / LHON / Leigh overlap syndrome	13045AC	A-C	M237L	-	+	Reported [VUS]	1 (0)	4
+13045	MT-ND5	MELAS	13045AG	A-G	M237V	-	+	Reported	0 (0)	1
+13046	MT-ND5	LHON/MELAS overlap syndrome	13046TC	T-C	M237T	-	+	Reported	0 (0)	4
+13051	MT-ND5	LHON	13051GA	G-A	G239S	+	-	Cfrm [VUS*]	0 (0)	4
+13063	MT-ND5	Adult-onset Encephalopathy / Ataxia	13063GA	G-A	V243I	-	+	Reported	2 (0)	4
+13084	MT-ND5	MELAS / Leigh Disease	13084AT	A-T	S250C	-	+	Reported [VUS]	0 (0)	5
+13091	MT-ND5	MELAS+Migraine	13091TC	T-C	M252T	-	+	Reported	0 (0)	1
+13094	MT-ND5	Ataxia+PEO / MELAS, LD, LHON, myoclonus, fatigue	13094TC	T-C	V253A	+	+	Cfrm [P]	1 (0)	13
+13135	MT-ND5	Possible HCM susceptibility	13135GA	G-A	A267T	+	-	Reported	579 (0)	2
+13138	MT-ND5	Possible LHON modulator	13138GA	G-A	E268K	+	-	Reported	0 (0)	1
+13204	MT-ND5	Peripheral neuropathy of T2 diabetes	13204GA	G-A	V290I	+	-	Reported	43 (0)	4
+13271	MT-ND5	Exercise intolerance (EXIT)	13271TC	T-C	L312P	-	+	Reported	1 (0)	2
+13276	MT-ND5	MIDD+retinopathy	13276AG	A-G	M314V	+	-	Conflicting reports	1662 (0)	2
+13289	MT-ND5	MELAS	13289GA	G-A	G318D	nr	nr	Reported	0 (0)	1
+13340	MT-ND5	LHON	13340TC	T-C	F335S	+	-	Reported	1 (0)	1
+13345	MT-ND5	LHON	13345GA	G-A	A337T	+	-	Reported	0 (0)	2
+13376	MT-ND5	MELAS w medial temporal lobe atrophy	13376TC	T-C	I347T	+	-	Reported	1 (0)	2
+13379	MT-ND5	LHON	13379AC	A-C	H348P	+	-	Reported [VUS]	0 (0)	1
+13379	MT-ND5	LHON	13379AG	A-G	H348R	+	-	Cfrm [VUS*]	0 (0)	2
+13511	MT-ND5	Leigh-like syndrome	13511AT	A-T	K392M	-	+	Reported	0 (0)	3
+13513	MT-ND5	Leigh Disease / MELAS / LHON-MELAS Overlap Syndrome / negative association w Carotid Atherosclerosis	13513GA	G-A	D393N	-	+	Cfrm [P]	1 (0)	60
+13514	MT-ND5	Leigh Disease / MELAS / Ca2+ downregulation	13514AG	A-G	D393G	-	+	Cfrm [LP]	0 (0)	17
+13528	MT-ND5	LHON-like, LHON, MELAS	13528AG	A-G	T398A	+	-	Reported [LB]	74 (0)	17
+13565	MT-ND5	Found in MELAS patient	13565CT	C-T	S410F	+	-	Reported	75 (0)	7
+13580	MT-ND5	Thyroid Cancer	13580CG	C-G	A415G	-	+	Reported	0 (0)	1
+13590	MT-ND5	Possible protective factor for high altitude sickness	13590GA	G-A	L418L	nr	nr	Reported	3328 (0)	1
+13615	MT-ND5	LHON	13615AG	A-G	I427V	-	+	Reported	9 (0)	2
+13637	MT-ND5	Possible LHON factor	13637AG	A-G	Q434R	+	-	Reported	595 (0)	5
+13702	MT-ND5	Possible LHON helper (one 14484 patient)	13702CG	C-G	R456G	nr	nr	Reported	17 (0)	1
+13708	MT-ND5	LHON / Increased MS risk / higher freq in PD-ADS	13708GA	G-A	A458T	+	+	Conflicting reports	4560 (0)	53
+13712	MT-ND5	Possible LHON helper (one 11778 patient)	13712CT	C-T	A459V	nr	nr	Reported	10 (0)	1
+13730	MT-ND5	LHON	13730GA	G-A	G465E	-	+	Reported [VUS]	0 (0)	8
+13759	MT-ND5	Possible LHON factor	13759GA	G-A	A475T	+	-	Reported	2110 (0)	1
+13831	MT-ND5	Thyroid Cancer Cell Line	13831CA	C-A	L499M	-	+	Reported	3 (0)	2
+13849	MT-ND5	MELAS	13849AC	A-C	N505H	+	-	Reported - possibly secondary	1 (0)	2
+13966	MT-ND5	Greater risk with hg X of end-stage kidney disease	13966AG	A-G	T544A	+	-	Reported	849 (0)	1
+13967	MT-ND5	Possible LHON factor	13967CT	C-T	T544M	+	-	Reported	184 (0)	4
+14002	MT-ND5	High altitude pulmonary edema susceptibility	14002AG	A-G	T556A	+	-	Reported	143 (0)	1
+14063	MT-ND5	Potentially functional variant cosegregating with LHON3635A	14063TC	T-C	I576T	+	-	Reported	24 (0)	2
+14091	MT-ND5	Developmental delay, seizure, hearing loss, diabetes	14091AT	A-T	K585N	-	+	Reported	0 (0)	2
+14163	MT-ND6	Possible deafness factor	14163CT	C-T	A171T	+	-	Conflicting reports	13 (0)	3
+14179	MT-ND6	Recurrent pregnancy loss	14179AG	A-G	Y165Y	nr	nr	Reported	324 (0)	1
+14258	MT-ND6	LHON synergistic combo 10680A + 12033G + 14258A  also combo 14258A + 14582G	14258GA	G-A	P139L	+	-	Reported: individually neutral variants causing LHON in combination	31 (0)	1
+14263	MT-ND6	Recurrent pregnancy loss	14263CT	C-T	E137E	nr	nr	Reported	6 (0)	1
+14279	MT-ND6	LHON	14279GA	G-A	S132L	+	-	Reported	7 (0)	7
+14319	MT-ND6	PD, early onset	14319TC	T-C	N119D	+	-	Reported	80 (0)	3
+14325	MT-ND6	LHON	14325TC	T-C	N117D	+	-	Reported	57 (0)	4
+14340	MT-ND6	SNHL	14340CT	C-T	V112M	+	-	Reported	21 (0)	2
+14342	MT-ND6	Possible association with sepsis	14342CA	C-A	G111V	-	+	Reported	0 (0)	1
+14351	MT-ND6	SNHL + neurodevelopmental delay	14351TC	T-C	E108G	-	+	Reported	2 (0)	1
+14430	MT-ND6	Leigh Syndrome	14430AC	A-C	W82G	-	+	Reported	0 (0)	1
+14430	MT-ND6	Thyroid Cancer / Leigh Syndrome	14430AG	A-G	W82R	+	-	Reported	0 (0)	2
+14439	MT-ND6	LS / Mitochondrial Respiratory Chain Disorder	14439GA	G-A	P79S	+	-	Reported	0 (0)	3
+14441	MT-ND6	Leigh-like phenotype	14441TC	T-C	Y78C	nr	nr	Reported	0 (0)	1
+14453	MT-ND6	MELAS / Leigh Disease	14453GA	G-A	A74V	-	+	Cfrm [LP]	0 (0)	10
+14459	MT-ND6	LDYT / Leigh Disease / dystonia / carotid atherosclerosis risk	14459GA	G-A	A72V	+	+	Cfrm [P]	3 (0)	46
+14465	MT-ND6	LHON / various supected mitochondrial disease	14465GA	G-A	T70I	-	+	Reported	0 (0)	2
+14482	MT-ND6	LHON	14482CA	C-A	M64I	+	+	Cfrm [LP]	2 (0)	13
+14482	MT-ND6	LHON	14482CG	C-G	M64I	+	+	Cfrm [LP]	0 (0)	8
+14484	MT-ND6	LHON	14484TC	T-C	M64V	+	+	Cfrm [P]	69 (0)	267
+14487	MT-ND6	Dystonia / Leigh Disease / ataxia / ptosis / epilepsy	14487TC	T-C	M63V	-	+	Cfrm [P]	0 (0)	40
+14495	MT-ND6	LHON	14495AG	A-G	L60S	-	+	Cfrm [LP]	2 (0)	11
+14498	MT-ND6	LHON	14498TC	T-C	Y59C	+	+	Reported	0 (0)	4
+14502	MT-ND6	LHON	14502TC	T-C	I58V	+	-	Reported - possibly synergistic	210 (0)	10
+14512	MT-ND6	EXIT w mild myopathy & hyperCKaemia	14512_14513del	TA-del	frameshift	-	+	Cfrm [LP]	0 (0)	1
+14535	MT-ND6	DMDF	14535_14536insC	C-CC	frameshift	nr	nr	Reported	1 (0)	1
+14538	MT-ND6	LHON	14538AG	A-G	F46L	+	-	Reported	0 (0)	1
+14568	MT-ND6	LHON	14568CT	C-T	G36S	+	-	Cfrm [LP]	6 (0)	10
+14577	MT-ND6	MIDM	14577TC	T-C	I33V	-	+	Reported	430 (0)	1
+14582	MT-ND6	LHON synergistic combo 14258A + 14582G	14582AG	A-G	V31A	+	-	Reported: individually neutral variants causing LHON in combination	355 (0)	1
+14596	MT-ND6	LHON with hereditary spastic dystonia	14596AT	A-T	I26M	+	-	Reported [VUS]	0 (0)	5
+14597	MT-ND6	LHON / LS	14597AG	A-G	I26T	-	+	Cfrm [LP]	0 (0)	2
+14598	MT-ND6	PD / LS	14598TC	T-C	I26V	+	-	Reported [VUS]	7 (0)	3
+14600	MT-ND6	Leigh Disease w/optic atrophy / ASD mouse model	14600GA	G-A	P25L	+	+	Reported	0 (0)	6
+14668	MT-ND6	Depressive Disorder associated	14668CT	C-T	M2M	+	-	Reported	2403 (0)	1
+14783	MT-CYB	Possible role in high altitude sickness	14783TC	T-C	L13L	nr	nr	Reported	12413 (0)	1
+14787	MT-CYB	PD / MELAS	14787_14790del	TTAA-del	frameshift	-	+	Cfrm [LP]	0 (0)	1
+14831	MT-CYB	LHON	14831GA	G-A	A29T	+	-	Reported	115 (0)	3
+14841	MT-CYB	LHON helper mut.	14841AG	A-G	N32S	-	+	Reported	21 (0)	1
+14846	MT-CYB	EXIT / possibly antiatherogenic, poss. myocardial infarction association	14846GA	G-A	G34S	-	+	Reported [VUS]	0 (0)	9
+14849	MT-CYB	EXIT / Septo-Optic Dysplasia	14849TC	T-C	S35P	-	+	Cfrm [VUS*]	0 (0)	3
+14864	MT-CYB	MELAS	14864TC	T-C	C40R	-	+	Reported	3 (0)	1
+14894	MT-CYB	LHON	14894TC	T-C	F50L	nr	nr	Reported	8 (0)	1
+14970	MT-CYB	LHON	14970AG	A-G	Y75C	nr	nr	Reported	7 (0)	1
+15024	MT-CYB	Possible DEAF modifier	15024GA	G-A	C93Y	+	-	Reported	37 (0)	2
+15043	MT-CYB	MDD-associated / possible factor in high altitude sickness	15043GA	G-A	G99G	+	-	Reported	13873 (0)	3
+15059	MT-CYB	MM / carotid atherosclerosis risk / essential hypertension	15059GA	G-A	G105Term	-	+	Reported	0 (0)	7
+15060	MT-CYB	Mitochondrial Respiratory Chain Disorder	15060GA	G-A	G105E	+	-	Reported	0 (0)	1
+15077	MT-CYB	DEAF / LHON / helper mutation for maternally inherited hypertension	15077GA	G-A	E111K	+	-	Reported	133 (0)	4
+15084	MT-CYB	EXIT	15084GA	G-A	W113Term	-	+	Reported	0 (0)	2
+15092	MT-CYB	MELAS	15092GA	G-A	G116S	-	+	Reported	0 (0)	1
+15150	MT-CYB	EXIT	15150GA	G-A	W135Term	-	+	Cfrm [LP]	0 (0)	1
+15153	MT-CYB	Suspected mito disease	15153GA	G-A	G136D	-	+	Reported	6 (0)	1
+15158	MT-CYB	Suspected mito disease	15158AG	A-G	M138V	-	+	Reported	0 (0)	1
+15168	MT-CYB	EXIT	15168GA	G-A	W141Term	-	+	Reported	0 (0)	2
+15170	MT-CYB	EXIT	15170GA	G-A	G142Term	-	+	Reported	0 (0)	1
+15197	MT-CYB	EXIT	15197TC	T-C	S151P	-	+	Reported [VUS]	0 (0)	2
+15200	MT-CYB	Possible factor in sepsis	15200GT	G-T	A152S	-	+	Reported	0 (0)	1
+15209	MT-CYB	Prader-Willi syndrome	15209TC	T-C	Y155H	+	-	Reported	7 (0)	1
+15215	MT-CYB	MELAS	15215GA	G-A	G157Term	nr	nr	Reported	0 (0)	1
+15218	MT-CYB	Possible LHON modulator	15218AG	A-G	T158A	+	-	Reported	1097 (0)	1
+15234	MT-CYB	Leigh stroke-like leukodystrophy	15234GA	G-A	W163Term	nr	nr	Reported	0 (0)	1
+15236	MT-CYB	Possible LHON helper (one 11778 patient)	15236AG	A-G	I164V	nr	nr	Reported	870 (0)	1
+15237	MT-CYB	Potentially functional variant cosegregating with LHON3635A	15237TC	T-C	I164T	+	-	Reported	7 (0)	1
+15242	MT-CYB	Mitochondrial Encephalomyopathy	15242GA	G-A	G166Term	-	+	Cfrm [LP]	0 (0)	2
+15243	MT-CYB	HCM	15243GA	G-A	G166E	-	+	Reported	0 (0)	2
+15246	MT-CYB	Mitochondrial Respiratory Chain Disorder	15246GA	G-A	G167D	-	+	Reported	0 (0)	1
+15256	MT-CYB	Peripheral neuropathy of T2 diabetes	15256AG	A-G	V170V	+	-	Reported	4 (0)	1
+15257	MT-CYB	LHON	15257GA	G-A	D171N	+	-	Conflicting reports	934 (0)	46
+15287	MT-CYB	Possible DEAF helper mut.	15287TC	T-C	F181L	-	+	Reported; hg I6a & H10c marker	108 (0)	2
+15301	MT-CYB	Possible factor in high altitude sickness, LHON	15301GA	G-A	L185L	nr	nr	Reported	16588 (0)	2
+15324	MT-CYB	Possible LHON helper (one 11778 patient)	15324CG	C-G	A193G	nr	nr	Reported	0 (0)	1
+15350	MT-CYB	Possible sepsis factor	15350GA	G-A	E202K	-	+	Reported	0 (0)	2
+15395	MT-CYB	Possible LHON factor	15395AG	A-G	K217E	+	-	Reported	2 (0)	1
+15436	MT-CYB	Possible role in high altitude sickness	15436CA	C-A	L230L	nr	nr	Reported	3 (0)	1
+15453	MT-CYB	Isolated complex III deficiency	15453TC	T-C	L236P	+	-	Reported	11 (0)	1
+15485	MT-CYB	Suspected mitochondrial disorder	15485CT	C-T	P247S	nr	nr	Reported	0 (0)	1
+15497	MT-CYB	EXIT / Obesity	15497GA	G-A	G251S	+	-	Reported	338 (0)	5
+15498	MT-CYB	EXIT	15498_15521del	24bp_deletion	GDPDNYTL-del	-	+	Reported	0 (0)	2
+15498	MT-CYB	DEAF / Infantile histiocytoid cardiomyopathy	15498GA	G-A	G251D	-	+	Reported	15 (0)	8
+15579	MT-CYB	Multisystem Disorder, EXIT	15579AG	A-G	Y278C	-	+	Cfrm [VUS*]	0 (0)	5
+15615	MT-CYB	EXIT / Antimycin resistance	15615GA	G-A	G290D	-	+	Reported	0 (0)	4
+15620	MT-CYB	Leigh Syndrome helper mut	15620CA	C-A	L292I	-	+	Reported	0 (0)	1
+15635	MT-CYB	Polyvisceral failure	15635TC	T-C	S297P	+	-	Reported	2 (0)	1
+15649	MT-CYB	Multisystem Disorder, EXIT	15649_15666del	18bp_deletion	ILAMIP-del	-	+	Reported	0 (0)	1
+15662	MT-CYB	Complex mitochondriopathy-associated	15662AG	A-G	I306V	+	+	Reported	203 (0)	1
+15674	MT-CYB	LHON	15674TC	T-C	S310P	+	-	Reported	166 (0)	2
+15693	MT-CYB	Possibly LVNC cardiomyopathy-associated	15693TC	T-C	M316T	+	-	Reported	764 (0)	1
+15699	MT-CYB	Muscle Weakness SNHL and Migraine	15699GC	G-C	R318P	-	+	Reported	0 (0)	2
+15723	MT-CYB	EXIT	15723GA	G-A	W326Term	-	+	Reported	0 (0)	1
+15761	MT-CYB	MM	15761GA	G-A	G339Term		+	Reported	0 (0)	1
+15762	MT-CYB	MM	15762GA	G-A	G339E	-	+	Reported	0 (0)	1
+15773	MT-CYB	LHON	15773GA	G-A	V343M	+	-	Reported - possibly synergistic	74 (0)	1
+15784	MT-CYB	POAG - potential for association	15784TC	T-C	P346P	+	-	Reported	2012 (0)	3
+15800	MT-CYB	EXIT / Myopathy	15800CT	C-T	Q352Term	-	+	Reported	0 (0)	2
+15804	MT-CYB	Fibromyalgia	15804TC	T-C	V353A	+	-	Reported	38 (0)	2
+15812	MT-CYB	LHON	15812GA	G-A	V356M	+	-	Reported / Secondary	513 (0)	21
+16051	MT-CR	Possible susceptibility to bullous pemphigoid	16051AG	A-G	noncoding	nr	nr	Reported	1571 (2004)	1
+16081	MT-CR	Cyclic Vomiting Syndrome	16081AG	A-G	noncoding	-	+	Reported	2 (31)	1
+16093	MT-CR	Cyclic Vomiting Syndrome / Increased risk of breast cancer	16093TC	T-C	noncoding	-	+	Reported	3535 (5198)	3
+16129	MT-CR	Cyclic Vomiting Syndrome with Migraine	16129GA	G-A	noncoding	-	+	Reported	7880 (12248)	1
+16162	MT-CR	Possible susceptibility to bullous pemphigoid	16162AG	A-G	noncoding	nr	nr	Reported	1112 (1503)	1
+16176	MT-CR	Cyclic Vomiting Syndrome with Migraine	16176CT	C-T	noncoding	-	+	Reported	486 (611)	1
+16183	MT-CR	Melanoma patients	16183AC	A-C	noncoding	nr	+	Reported	7770 (12256)	1
+16188	MT-CR	Possible association with sepsis	16188_16189insC	C-CC	noncoding	-	+	Reported	25 (217)	1
+16189	MT-CR	Diabetes / Cardiomyopathy /cancer risk / mtDNA copy nbr / Metabolic Syndrome / Melanoma patients	16189TC	T-C	noncoding	+	-	Reported	14995 (20786)	34
+16192	MT-CR	Melanoma patients	16192CT	C-T	noncoding	nr	nr	Reported	2669 (3381)	1
+16217	MT-CR	Endometriosis	16217TC	T-C	noncoding	+	-	Reported	4240 (5483)	1
+16263	MT-CR	Possible susceptibility to bullous pemphigoid	16263TC	T-C	noncoding	nr	nr	Reported	579 (427)	1
+16270	MT-CR	Melanoma patients	16270CT	C-T	noncoding	nr	nr	Reported	3033 (2497)	1
+16298	MT-CR	Protective factor for stroke risk (hg V)	16298TC	T-C	noncoding	nr	nr	Reported	4151 (5643)	1
+16300	MT-CR	BD-associated	16300AG	A-G	noncoding	+	-	Reported	311 (525)	2
+16318	MT-CR	Non-alcoholic steatohepatitis - potential for association	16318AC	A-C	noncoding	nr	nr	Reported	108 (118)	1
+16390	MT-CR	POAG - potential for association	16390GA	G-A	noncoding	+	-	Reported	3297 (4686)	3
+16519	MT-CR	Cyclic Vomiting Syndrome with Migraine /metastasis	16519TT	T-T	noncoding	+	-	Reported	23064 (0)	4
+576	MT-CR	Hearing loss patient	A576G	noncoding MT-TF precursor		nr	nr	Reported	3 (10)	1
+578	MT-TF	Unspecified patient from clinical lab / MS	T578C	tRNA Phe		nr	+	Reported	0 (0)	2
+582	MT-TF	Mitochondrial myopathy	T582C	tRNA Phe		-	+	Reported	0 (0)	3
+583	MT-TF	MELAS / MM & EXIT	G583A	tRNA Phe		-	+	Cfrm [VUS*]	0 (0)	5
+586	MT-TF	Extrapyramidal disorder with akinesia-rigidity, psychosis and SNHL	G586A	tRNA Phe		-	+	Reported [VUS]	0 (0)	6
+590	MT-TF	EXIT+ataxia+RP	A590G	tRNA Phe		-	+	Reported [VUS]	0 (0)	1
+591	MT-TF	Gitelman-like syndrome	C591T	tRNA Phe		+	-	Cfrm [LP]	0 (0)	1
+593	MT-TF	Nonsyndromic hearing loss / LHON	T593C	tRNA Phe		+	-	Reported	294 (0)	7
+602	MT-TF	Axial myopathy with encephalopathy	C602T	tRNA Phe		-	+	Reported	0 (0)	2
+606	MT-TF	Myoglobinuria	A606G	tRNA Phe		+	+	Unclear	22 (0)	5
+608	MT-TF	Tubulo-interstitial nephritis	A608G	tRNA Phe		+	-	Reported [VUS]	0 (0)	3
+611	MT-TF	MERRF	G611A	tRNA Phe		-	+	Reported [VUS]	0 (0)	4
+616	MT-TF	Maternally inherited epilepsy / mito tubulointerstitial kidney disease (MITKD) / Gitelman-like syndrome	T616C	tRNA Phe		+	+	Cfrm [LP]	1 (0)	6
+616	MT-TF	Maternally inherited epilepsy	T616G	tRNA Phe		+	+	Reported [VUS]	1 (0)	1
+617	MT-TF	Carotid artery stenosis	G617A	tRNA Phe		-	+	Reported	0 (0)	1
+618	MT-TF	MM	T618C	tRNA Phe		-	+	Reported [VUS]	0 (0)	3
+618	MT-TF	Ptosis CPEO MM & EXIT	T618G	tRNA Phe		-	+	Reported	0 (0)	1
+622	MT-TF	EXIT & Deafness	G622A	tRNA Phe		-	+	Reported [VUS]	0 (0)	3
+625	MT-TF	SNHL & Epilepsy	G625A	tRNA Phe		-	+	Reported	0 (0)	1
+628	MT-TF	DEAF	C628T	tRNA Phe		-	+	Reported	3 (0)	2
+636	MT-TF	DEAF	A636G	tRNA Phe		+	-	Reported	20 (0)	3
+641	MT-TF	Epileptic Encephalopathy	A641T	tRNA Phe		-	+	Reported	0 (0)	1
+642	MT-TF	Ataxia, PEO, deafness	T642C	tRNA Phe		-	+	Reported	0 (0)	1
+643	MT-TF	Gitelman-like syndrome	A643G	tRNA Phe		+	-	Reported	0 (0)	1
+653	MT-RNR1	Atherosclerosis risk	G653del	12S rRNA		-	+	Reported	0 (0)	2
+653	MT-RNR1	Atherosclerosis study	G653GG	12S rRNA		-	+	Reported	0 (0)	1
+663	MT-RNR1	Coronary atherosclerosis risk	A663G	12S rRNA		+	-	Reported	1765 (0)	1
+669	MT-RNR1	DEAF	T669C	12S rRNA		+	-	Reported	114 (0)	4
+721	MT-RNR1	Possibly LVNC-associated	T721C	12S rRNA		+	-	Reported	139 (0)	1
+735	MT-RNR1	DEAF	A735G	12S rRNA		nr	nr	Reported	77 (0)	2
+745	MT-RNR1	DEAF-associated	A745G	12S rRNA		+	-	Reported	38 (0)	1
+750	MT-RNR1	SZ-associated	A750A	12S rRNA		+	-	Reported	1013 (0)	3
+773	MT-RNR1	Possible association with sepsis	T773C	12S rRNA		-	+	Reported	4 (0)	2
+792	MT-RNR1	Increased risk of nonsyndromic deafness	C792T	12S rRNA		+	-	Reported	5 (0)	1
+801	MT-RNR1	DEAF-associated	A801G	12S rRNA		+	-	Reported	7 (0)	1
+827	MT-RNR1	DEAF	A827G	12S rRNA		+	-	Conflicting reports	1585 (0)	19
+839	MT-RNR1	DEAF-associated	A839G	12S rRNA		+	-	Reported	7 (0)	1
+850	MT-RNR1	Possibly LVNC-associated	T850C	12S rRNA		+	-	Reported	122 (0)	1
+856	MT-RNR1	LHON helper / AD / DEAF-associated	A856G	12S rRNA		+	-	Reported	18 (0)	3
+869	MT-RNR1	found in 1 HCM patient	C869T	12S rRNA		+	-	Reported	75 (0)	1
+921	MT-RNR1	Possibly LVNC-associated	T921C	12S rRNA		+	-	Reported	434 (0)	2
+955	MT-RNR1	Possible association with sepsis	A955C	12S rRNA		-	+	Reported	3 (0)	1
+960	MT-RNR1	Possibly DEAF-associated	C960del	12S rRNA		+	-	Reported	56 (0)	1
+960	MT-RNR1	Possibly DEAF-associated	C960CC	12S rRNA		+	-	Reported	388 (0)	5
+961	MT-RNR1	DEAF, possibly LVNC-associated	T961C	12S rRNA		+	-	Unclear	555 (0)	9
+961	MT-RNR1	DEAF / AD-associated / intellectual disability	T961delT+ / -C(n)ins	12S rRNA		+	+	Unclear	0 (0)	22
+961	MT-RNR1	Possibly DEAF-associated	T961G	12S rRNA		+	-	Unclear	226 (0)	7
+965	MT-RNR1	DEAF	T965TC	12S rRNA		+	-	Unclear	1 (0)	12
+988	MT-RNR1	Possible DEAF risk factor	G988A	12S rRNA		nr	nr	Reported	55 (0)	1
+990	MT-RNR1	DEAF	T990C	12S rRNA		+	-	Reported	36 (0)	1
+1005	MT-RNR1	DEAF	T1005C	12S rRNA		+	-	Unclear	272 (0)	5
+1027	MT-RNR1	DEAF-associated	A1027G	12S rRNA		+	-	Reported	18 (0)	1
+1095	MT-RNR1	SNHL	T1095C	12S rRNA		+	+	Unclear	65 (0)	16
+1116	MT-RNR1	DEAF	A1116G	12S rRNA		+	-	Reported	10 (0)	2
+1119	MT-RNR1	Possible role in high altitude sickness	T1119C	12S rRNA		nr	nr	Reported	322 (0)	1
+1180	MT-RNR1	Possibly DEAF-associated	T1180G	12S rRNA		+	-	Reported	0 (0)	2
+1192	MT-RNR1	DEAF-associated	C1192A	12S rRNA		+	-	Reported	10 (0)	2
+1192	MT-RNR1	DEAF-associated	C1192T	12S rRNA		+	-	Reported	14 (0)	1
+1226	MT-RNR1	Possibly DEAF-associated	C1226G	12S rRNA		+	-	Reported	0 (0)	2
+1291	MT-RNR1	DEAF	T1291C	12S rRNA		+	-	Unclear	55 (0)	3
+1310	MT-RNR1	DEAF-associated	C1310T	12S rRNA		+	-	Reported	39 (0)	1
+1331	MT-RNR1	DEAF-associated	A1331G	12S rRNA		+	-	Reported	10 (0)	1
+1349	MT-RNR1	DEAF	T1349G	12S rRNA		-	+	Reported	0 (0)	1
+1374	MT-RNR1	DEAF-associated	A1374G	12S rRNA		+	-	Reported	1 (0)	2
+1382	MT-RNR1	Longevity / T2D susceptibility	A1382C	12S rRNA		+	-	Reported	192 (0)	3
+1391	MT-RNR1	found in 1 HCM patient	T1391C	12S rRNA		+	+	Reported	128 (0)	1
+1420	MT-RNR1	DEAF	T1420G	12S rRNA		+	+	Reported	0 (0)	1
+1438	MT-RNR1	SZ-associated	A1438A	12S rRNA		+	-	Reported	2857 (0)	3
+1452	MT-RNR1	DEAF-associated	T1452C	12S rRNA		+	-	Reported	52 (0)	1
+1453	MT-RNR1	Possible DEAF risk factor	A1453G	12S rRNA		nr	nr	Reported	110 (0)	1
+1492	MT-RNR1	DEAF	A1492C	12S rRNA		-	+	Reported	0 (0)	1
+1494	MT-RNR1	DEAF	C1494T	12S rRNA		+	-	Cfrm [LP]	5 (0)	33
+1517	MT-RNR1	DEAF	A1517C	12S rRNA		-	+	Reported	0 (0)	1
+1537	MT-RNR1	DEAF; intellectual disability	C1537T	12S rRNA		+	-	Reported	9 (0)	1
+1544	MT-RNR1	DEAF	A1544T	12S rRNA		+	-	Reported	0 (0)	2
+1546	MT-RNR1	DEAF	A1546T	12S rRNA		+	-	Reported	0 (0)	1
+1554	MT-RNR1	DEAF	G1554A	12S rRNA		+	-	Reported	0 (0)	1
+1555	MT-RNR1	DEAF; autism spectrum intellectual disability; possibly antiatherosclerotic	A1555G	12S rRNA		+	+	Cfrm [P]	85 (0)	160
+1556	MT-RNR1	found in 1 HCM patient	C1556T	12S rRNA		+	-	Reported	13 (0)	1
+1575	MT-RNR1	DEAF	T1575G	12S rRNA		+	-	Reported	0 (0)	1
+1577	MT-RNR1	DEAF	T1577G	12S rRNA		-	+	Reported	0 (0)	1
+1606	MT-TV	AMDF	G1606A	tRNA Val		-	+	Cfrm [VUS*]	0 (0)	5
+1607	MT-TV	Suspected mito disease	T1607C	tRNA Val		+	+	Reported	12 (0)	2
+1608	MT-TV	Leigh Sydrome / Parkinsonism with dystonia	G1608A	tRNA Val		-	+	Reported	1 (0)	3
+1612	MT-TV	LVNC (left ventricular noncompaction)	C1612T	tRNA Val		+	-	Reported (VUS)	0 (0)	1
+1616	MT-TV	MELAS	A1616G	tRNA Val		nr	nr	Reported	0 (0)	1
+1624	MT-TV	Leigh Syndrome	C1624T	tRNA Val		+	-	Reported	0 (0)	6
+1630	MT-TV	MNGIE-like disease / MELAS	A1630G	tRNA Val		-	+	Cfrm [VUS*]	0 (0)	9
+1640	MT-TV	MELAS	A1640G	tRNA Val		+	+	Reported	2 (0)	1
+1642	MT-TV	MELAS	G1642A	tRNA Val		-	+	Reported	0 (0)	2
+1643	MT-TV	Late infantile onset fatal mito disease	A1643G	tRNA Val		+	+	Reported	1 (0)	2
+1644	MT-TV	Leigh Syndrome / HCM / MELAS	G1644A	tRNA Val		-	+	Cfrm [LP]	0 (0)	6
+1644	MT-TV	Adult Leigh Syndrome	G1644T	tRNA Val		-	+	Reported	0 (0)	1
+1659	MT-TV	Movement Disorder	T1659C	tRNA Val		-	+	Reported [VUS]	0 (0)	3
+1661	MT-TV	Charcot Marie Tooth (CMT)	A1661G	tRNA Val		+	-	Reported [VUS]	1 (0)	2
+2156	MT-RNR2	Possible association with sepsis	A2156AA	16S rRNA		-	+	Reported	204 (0)	8
+2158	MT-RNR2	Reduced risk PD	T2158C	16S rRNA		nr	nr	Reported	247 (0)	2
+2336	MT-RNR2	Hypertrophic cardiomyopathy	T2336C	16S rRNA		+	-	Reported	0 (0)	2
+2352	MT-RNR2	Possibly LVNC-associated	T2352C	16S rRNA		+	-	Reported	1612 (0)	3
+2361	MT-RNR2	Possibly LVNC-associated	G2361A	16S rRNA		+	-	Reported	147 (0)	1
+2492	MT-RNR2	Possible association with sepsis	G2492A	16S rRNA		-	+	Reported	1 (0)	2
+2639	MT-RNR2	Rare mutation in a single POAG patient	C2639A	16S rRNA		+	-	Reported	1 (0)	1
+2647	MT-RNR2	Possible association with sepsis	G2647A	16S rRNA		-	+	Reported	1 (0)	2
+2648	MT-RNR2	Rett Syndrome	T2648C	16S rRNA		nr	nr	Reported	1 (0)	1
+2706	MT-RNR2	Increased risk of T2DM in haplogroup H	A2706A	16S rRNA		+	-	Reported	13482 (0)	1
+2755	MT-RNR2	Possibly LVNC-associated	A2755G	16S rRNA		+	-	Reported	273 (0)	3
+2806	MT-RNR2	Possible association with sepsis	T2806A	16S rRNA		-	+	Reported	0 (0)	1
+2835	MT-RNR2	Rett Syndrome	C2835T	16S rRNA		-	+	Reported	72 (0)	2
+3010	MT-RNR2	Cyclic Vomiting Syndrome with Migraine / high altitude adaptation	G3010A	16S rRNA		+	-	Reported	9387 (0)	9
+3054	MT-RNR2	Possible association with sepsis	G3054A	16S rRNA		-	+	Reported	0 (0)	2
+3090	MT-RNR2	Myopathy	G3090A	16S rRNA		-	+	Reported	2 (0)	1
+3093	MT-RNR2	MELAS	C3093G	16S rRNA		-	+	Reported	0 (0)	2
+3096	MT-RNR2	Possible association with sepsis	T3096C	16S rRNA		-	+	Reported	18 (0)	3
+3098	MT-RNR2	Possible association with sepsis	T3098C	16S rRNA		-	+	Reported	0 (0)	2
+3111	MT-RNR2	Migraine	A3111T	16S rRNA		+	-	Reported	6 (0)	1
+3196	MT-RNR2	ADPD	G3196A	16S rRNA		+	+	Reported	15 (0)	3
+3236	MT-TL1	Sporadic bilateral optic neuropathy / hearing loss	A3236G	tRNA Leu (UUR)		nr	nr	Reported	2 (0)	4
+3242	MT-TL1	MM / HCM+renal tubular dysfunction	G3242A	tRNA Leu (UUR)		+	+	Reported	0 (0)	13
+3243	MT-TL1	MELAS / Leigh Syndrome / DMDF / MIDD / SNHL / CPEO / MM / FSGS / ASD / Cardiac+multi-organ dysfunction	A3243G	tRNA Leu (UUR)		-	+	Cfrm [P]	9 (0)	472
+3243	MT-TL1	MM / MELAS / SNHL / CPEO	A3243T	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	12
+3244	MT-TL1	MELAS	G3244A	tRNA Leu (UUR)		-	+	Reported	4 (0)	5
+3249	MT-TL1	KSS	G3249A	tRNA Leu(UUR)		-	+	Reported [VUS]	0 (0)	5
+3250	MT-TL1	MM / CPEO / cardiomyopathy	T3250C	tRNA Leu (UUR)		-	+	Reported	0 (0)	16
+3251	MT-TL1	MM / MELAS with chorea-ballism	A3251G	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	7
+3252	MT-TL1	MELAS	A3252G	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	7
+3252	MT-TL1	EXIT	A3252T	tRNA Leu (UUR)		-	+	Reported	0 (0)	2
+3253	MT-TL1	Maternally inherited hypertension	T3253C	tRNA Leu (UUR)		+	-	Reported	7 (0)	4
+3254	MT-TL1	Gestational Diabetes (GDM)	C3254A	tRNA Leu (UUR)		-	+	Reported	33 (0)	1
+3254	MT-TL1	MM	C3254G	tRNA Leu (UUR)		-	+	Reported	0 (0)	4
+3254	MT-TL1	CPEO / poss. hypertension factor	C3254T	tRNA Leu (UUR)		+	-	Reported	18 (0)	5
+3255	MT-TL1	MERRF / KSS overlap	G3255A	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	5
+3256	MT-TL1	MELAS; possible atherosclerosis risk	C3256T	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	21
+3258	MT-TL1	MELAS / Myopathy	T3258C	tRNA Leu (UUR)		-	+	Cfrm [LP]	1 (0)	5
+3260	MT-TL1	MMC / MELAS	A3260G	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	18
+3264	MT-TL1	DM	T3264C	tRNA Leu (UUR)		-	+	Reported	0 (0)	3
+3271	MT-TL1	MELAS / DM / MERRF-like	T3271C	tRNA Leu (UUR)		-	+	Cfrm [P]	0 (0)	39
+3273	MT-TL1	PEM / retinal dystrophy in MELAS	T3273del	tRNA Leu (UUR)		-	+	Cfrm [VUS*]	0 (0)	2
+3273	MT-TL1	Ocular myopathy	T3273C	tRNA Leu (UUR)		-	+	Reported	0 (0)	2
+3274	MT-TL1	Encephalomyopathy with proteinuric kidney disease	3274_3275delAC	tRNA Leu (UUR)		-	+	Reported	0 (0)	1
+3274	MT-TL1	Neuropsychiatric syndrome + cataract	A3274G	tRNA Leu (UUR)		-	+	Reported [VUS]	0 (0)	4
+3275	MT-TL1	LHON	C3275A	tRNA Leu (UUR)		+	-	Reported	3 (0)	4
+3275	MT-TL1	Metabolic syndrome and polycystic ovary syndrome / LHON	C3275T	tRNA Leu (UUR)		+	-	Reported	3 (0)	7
+3277	MT-TL1	Poss. hypertension factor	G3277A	tRNA Leu (UUR)		+	-	Reported	38 (0)	2
+3278	MT-TL1	Poss. hypertension factor	T3278C	tRNA Leu (UUR)		+	-	Reported	16 (0)	3
+3280	MT-TL1	Myopathy	A3280G	tRNA Leu (UUR)		-	+	Cfrm [VUS*]	0 (0)	6
+3283	MT-TL1	Late onset ocular myopathy	G3283A	tRNA Leu (UUR)		-	+	Reported	0 (0)	1
+3287	MT-TL1	Encephalomyopathy	C3287A	tRNA Leu (UUR)		-	+	Reported	0 (0)	2
+3288	MT-TL1	Myopathy	A3288G	tRNA Leu (UUR)		-	+	Reported	0 (0)	5
+3290	MT-TL1	Poss. hypertension factor	T3290C	tRNA Leu (UUR)		+	-	Reported	131 (0)	5
+3291	MT-TL1	MELAS / Myopathy / Deafness+Cognitive Impairment	T3291C	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	18
+3302	MT-TL1	MM	A3302G	tRNA Leu (UUR)		-	+	Cfrm [LP]	0 (0)	15
+3303	MT-TL1	MMC	C3303T	tRNA Leu (UUR)		+	+	Cfrm [LP]	0 (0)	22
+4263	MT-TI	Maternally inherited essential hypertension	A4263G	tRNA Ile		+	-	Reported	3 (0)	5
+4267	MT-TI	MM / CPEO	A4267G	tRNA Ile		-	+	Reported	0 (0)	4
+4269	MT-TI	FICP	A4269G	tRNA Ile		-	+	Reported	1 (0)	10
+4274	MT-TI	CPEO / Motor Neuron Disease	T4274C	tRNA Ile		-	+	Reported	0 (0)	6
+4277	MT-TI	HCM / Poss. hypertension factor	T4277C	tRNA Ile		+	-	Reported	20 (0)	3
+4279	MT-TI	Myoclonic epilepsy	A4279G	tRNA Ile		-	+	Reported	0 (0)	1
+4281	MT-TI	Recurrent Myoglobinuria	A4281G	tRNA Ile		-	+	Reported	1 (0)	1
+4282	MT-TI	CPEO Plus	G4282A	tRNA Ile		-	+	Reported	0 (0)	1
+4284	MT-TI	Varied familial presentation / spastic paraparesis	G4284A	tRNA Ile		-	+	Reported [VUS]	2 (0)	7
+4285	MT-TI	CPEO	T4285C	tRNA Ile		-	+	Reported	0 (0)	6
+4289	MT-TI	Retinopathy+diabetes+dysphagia+cerebral atrophy	T4289C	tRNA Ile		-	+	Reported	0 (0)	1
+4290	MT-TI	Progressive Encephalopathy / PEO,myopathy	T4290C	tRNA Ile		+	+	Reported	0 (0)	5
+4291	MT-TI	Hypomagnesemic Metabolic Syndrome / Gitelman-like syndrome	T4291C	tRNA Ile		+	-	Reported [VUS]	0 (0)	2
+4295	MT-TI	MHCM / Maternally inherited hypertension / Maternally inherited deafness	A4295G	tRNA Ile		+	+	Reported [VUS]	113 (0)	16
+4296	MT-TI	Leigh Syndrome	G4296A	tRNA Ile		-	+	Reported	0 (0)	4
+4298	MT-TI	CPEO / MS	G4298A	tRNA Ile		-	+	Cfrm [VUS*]	0 (0)	11
+4300	MT-TI	MICM	A4300G	tRNA Ile		+	+	Cfrm [LP]	0 (0)	10
+4301	MT-TI	Patient with MELAS	A4301T	tRNA Ile		nr	nr	Reported	1 (0)	1
+4302	MT-TI	CPEO	A4302G	tRNA Ile		-	+	Reported	0 (0)	1
+4308	MT-TI	CPEO	G4308A	tRNA Ile		-	+	Cfrm [VUS*]	0 (0)	3
+4309	MT-TI	CPEO	G4309A	tRNA Ile		-	+	Reported	0 (0)	4
+4314	MT-TI	Poss. hypertension factor	T4314C	tRNA Ile		+	-	Reported	48 (0)	2
+4316	MT-TI	HCM with hearing loss / poss. hypertension factor	A4316G	tRNA Ile		+	+	Reported	30 (0)	4
+4317	MT-TI	Ptosis, deafness, stroke-like episodes	A4317del	tRNA Ile		nr	nr	Reported	16 (0)	5
+4317	MT-TI	FICP / poss. Hypertension / DEAF factor	A4317G	tRNA Ile		+	-	Reported	48 (0)	15
+4320	MT-TI	Mitochondrial Encephalocardiomyopathy	C4320T	tRNA Ile		-	+	Reported	10 (0)	6
+4322	MT-TI	mtDNA deletion and depletion with dilated cardiomyopathy	C4322del	tRNA Ile		+	-	Reported	0 (0)	1
+4322	MT-TI	Idiopathic Dilated Cardiomopathy	C4322CC	tRNA Ile		-	+	Reported	3 (0)	1
+4327	MT-TI	Ataxia+, with RRF and COX deficiency	T4327C	tRNA Ile		-	+	Reported	0 (0)	2
+4332	MT-TQ	Encephalopathy / MELAS	G4332A	tRNA Gln		-	+	Cfrm [VUS*]	0 (0)	4
+4336	MT-TQ	ADPD / Hearing Loss & Migraine / autism spectrum / intellectual disability	T4336C	tRNA Gln		+	+	Reported [B]	535 (0)	29
+4343	MT-TQ	Poss. hypertension factor	A4343G	tRNA Gln		+	-	Reported	55 (0)	2
+4344	MT-TQ	Developmental delay	T4344C	tRNA Gln		-	+	Reported	0 (0)	1
+4345	MT-TQ	Poss. hypertension factor	C4345T	tRNA Gln		+	-	Reported	5 (0)	1
+4353	MT-TQ	Poss. hypertension factor	T4353C	tRNA Gln		+	-	Reported	37 (0)	2
+4363	MT-TQ	Metabolic syndrome and polycystic ovary syndrome / possibly associated w DEAF + RP + dev delay / hypertension / LHON	T4363C	tRNA Gln		+	-	Reported	55 (0)	8
+4369	MT-TQ	Myopathy	A4369AA	tRNA Gln		-	+	Reported [VUS]	0 (0)	3
+4372	MT-TQ	Suspected mito disease	C4372T	tRNA Gln		-	+	Reported	0 (0)	2
+4373	MT-TQ	Tic disorder / possibly LVNC-associated	T4373C	tRNA Gln		+	-	Reported	11 (0)	3
+4375	MT-TQ	Matrilineal hypertension risk factor	C4375T	tRNA Gln		nr	nr	Reported	9 (0)	1
+4381	MT-TQ	LHON	A4381G	tRNA Gln		+	-	Reported	4 (0)	3
+4386	MT-TQ	Heart disease / myopathy / hypertension	T4386C	tRNA Gln		+	-	Conflicting reports	188 (0)	4
+4387	MT-TQ	Poss. hypertension factor	C4387A	tRNA Gln		+	-	Reported	2 (0)	1
+4388	MT-TQ	Poss. hypertension factor; intellectual disability	A4388G	tRNA Gln		+	-	Reported	67 (0)	3
+4392	MT-TQ	Poss. hypertension factor	C4392T	tRNA Gln		+	-	Reported	18 (0)	1
+4395	MT-TQ	Poss. hypertension factor	A4395G	tRNA Gln		+	-	Reported	27 (0)	3
+4401	MT-NC2	Hypertension+Ventricular Hypertrophy	A4401G	NC2 Gln-Met spacer		+	-	Reported	9 (0)	4
+4403	MT-TM	Mitochondrial myopathy	G4403A	tRNA Met		-	+	Reported	0 (0)	1
+4409	MT-TM	Mitochondrial myopathy	T4409C	tRNA Met		-	+	Reported [VUS]	0 (0)	6
+4410	MT-TM	Poss. hypertension factor	C4410A	tRNA Met		+	-	Reported	0 (0)	1
+4412	MT-TM	Seizures with myopathy & retinopathy	G4412A	tRNA Met		-	+	Reported	0 (0)	1
+4414	MT-TM	Progressive external ophthalmoplegia and myopathy	T4414C	tRNA Met		-	+	Reported	0 (0)	1
+4415	MT-TM	EXIT & APS2	A4415G	tRNA Met		-	+	Reported	0 (0)	1
+4435	MT-TM	LHON / LHON modulator / hypertension; autism spectrum; intellectual disability / hearing loss	A4435G	tRNA Met		+	-	Reported	60 (0)	18
+4437	MT-TM	Hypotonia, seizure, muscle weakness, lactic acidosis, hearing loss	C4437T	tRNA Met		+	-	Reported	0 (0)	3
+4440	MT-TM	Mitochondrial myopathy	G4440A	tRNA Met		-	+	Reported	0 (0)	5
+4450	MT-TM	Myopathy / MELAS / Leigh Syndrome / EXIT	G4450A	tRNA Met		-	+	Cfrm [LP]	0 (0)	5
+4452	MT-TM	Reported in tic disorder patient	T4452C	tRNA Met		nr	nr	Reported	123 (0)	1
+4454	MT-TM	Possible contributor to mito dysfunction / hypertension	T4454C	tRNA Met		+	-	Reported	224 (0)	4
+4456	MT-TM	Poss. hypertension factor	C4456T	tRNA Met		-	+	Reported	5 (0)	2
+4467	MT-TM	Maternally inherited hypertension	C4467A	tRNA Met		-	+	Reported	0 (0)	1
+5512	MT-TW	Maternally inherited hypertension	A5512G	tRNA Trp		+	-	Reported	5 (0)	1
+5513	MT-TW	Mitochondrial encephalomyopathy with RP	G5513A	tRNA Trp		-	+	Reported	1 (0)	1
+5514	MT-TW	Neonatal onset mito disease	A5514G	tRNA Trp		+	-	Reported	47 (0)	3
+5521	MT-TW	Mitochondrial myopathy	G5521A	tRNA Trp		-	+	Cfrm [LP]	0 (0)	8
+5522	MT-TW	Mitochondrial myopathy	G5522A	tRNA Trp		-	+	Reported	0 (0)	2
+5523	MT-TW	Leigh Syndrome	T5523G	tRNA Trp		-	+	Reported [VUS]	0 (0)	2
+5532	MT-TW	Gastrointestinal Syndrome	G5532A	tRNA Trp		-	+	Reported [VUS]	1 (0)	3
+5537	MT-TW	Leigh Syndrome	A5537insT	tRNA Trp		-	+	Cfrm [LP]	0 (0)	6
+5538	MT-TW	Encephalomyopathy	G5538A	tRNA Trp		-	+	Reported [VUS]	0 (0)	3
+5540	MT-TW	Encephalomyopathy / DEAF	G5540A	tRNA Trp		-	+	Reported [VUS]	0 (0)	4
+5541	MT-TW	MELAS+stroke-like episodes and cortical blindness+MRI shows occipital lobe infarct	C5541T	tRNA Trp		-	+	Reported	0 (0)	5
+5543	MT-TW	Mitochondrial myopathy	T5543C	tRNA Trp		-	+	Reported [VUS]	0 (0)	8
+5545	MT-TW	HCM severe multisystem disorder	C5545T	tRNA Trp		-	+	Reported [VUS]	0 (0)	1
+5549	MT-TW	DEMCHO / mitochondrial encephalomyopathy	G5549A	tRNA Trp		-	+	Reported [VUS]	0 (0)	2
+5556	MT-TW	Combined OXPHOS defects	G5556A	tRNA Trp		-	+	Cfrm [LP]	0 (0)	3
+5556	MT-TW	Mito encephalomyopathy	G5556C	tRNA Trp		-	+	Reported	0 (0)	1
+5558	MT-TW	Reported in tic disorder patient / NSSNHL	A5558G	tRNA Trp		nr	nr	Reported [VUS]	119 (0)	2
+5559	MT-TW	Leigh Syndrome	A5559G	tRNA Trp		-	+	Reported	0 (0)	3
+5567	MT-TW	Myopathy	T5567C	tRNA Trp		-	+	Reported	56 (0)	3
+5568	MT-TW	DEAF	A5568G	tRNA Trp		+	-	Reported	16 (0)	2
+5587	MT-TA	LHON / possible DEAF modifier / MIDD / dilated cardiomyopathy / hypertension / tic disorder	T5587C	tRNA Ala		+	+	Reported	37 (0)	12
+5591	MT-TA	Myopathy	G5591A	tRNA Ala		-	+	Reported [VUS+]	0 (0)	4
+5592	MT-TA	Coronary Heart Disease	A5592G	tRNA Ala		+	-	Reported	32 (0)	2
+5595	MT-TA	Reported in tic disorder patient	G5595A	tRNA Ala		nr	nr	Reported	0 (0)	1
+5601	MT-TA	Possible helper mutation in maternally inherited hypertension and in LHON	C5601T	tRNA Ala		+	-	Reported	598 (0)	7
+5610	MT-TA	Myopathy	G5610A	tRNA Ala		-	+	Reported [VUS]	0 (0)	1
+5613	MT-TA	CPEO	T5613C	tRNA Ala		-	+	Reported	0 (0)	1
+5618	MT-TA	Hearing loss patient	T5618C	tRNA Ala		nr	nr	Reported	18 (0)	3
+5628	MT-TA	CPEO / DEAF enhancer / gout / tic disorder	T5628C	tRNA Ala		-	+	Reported	130 (0)	7
+5631	MT-TA	Myopathy	G5631A	tRNA Ala		-	+	Reported [VUS]	1 (0)	2
+5636	MT-TA	PEO	T5636C	tRNA Ala		-	+	Reported	0 (0)	1
+5641	MT-TA	Hearing loss patient	T5641C	tRNA Ala		nr	nr	Reported	9 (0)	2
+5650	MT-TA	Myopathy	G5650A	tRNA Ala		-	+	Cfrm [LP]	1 (0)	10
+5652	MT-TA	Dilated Cardiomyopathy	C5652G	tRNA Ala		+	-	Reported	0 (0)	1
+5655	MT-TA	DEAF enhancer / Hypertension risk	T5655C	tRNA Ala		+	-	Reported	380 (0)	10
+5658	MT-TN	Mitochondrial myopathy	T5658C	tRNA Asn		-	+	Reported	0 (0)	1
+5667	MT-TN	Ptosis	G5667A	tRNA Asn		nr	nr	Reported [VUS]	0 (0)	1
+5669	MT-TN	Sporadic CPEO	G5669A	tRNA Asn		-	+	Reported	0 (0)	1
+5670	MT-TN	Progressive mitochondrial myopathy	A5670G	tRNA Asn		+	-	Reported	0 (0)	1
+5672	MT-TN	EXIT+myalgia+CPEO with RRF	T5672C	tRNA Asn		-	+	Reported	0 (0)	2
+5690	MT-TN	CPEO+ptosis+proximal myopathy	A5690G	tRNA Asn		-	+	Cfrm [LP]	0 (0)	3
+5692	MT-TN	CPEO / MM	T5692C	tRNA Asn		-	+	Reported [VUS]	1 (0)	4
+5693	MT-TN	Encephalomyopathy	T5693C	tRNA Asn		+	-	Reported	0 (0)	2
+5698	MT-TN	CPEO / MM	G5698A	tRNA Asn		-	+	Reported	1 (0)	4
+5702	MT-TN	Sporadic CPEO	A5702del	tRNA Asn		-	+	Reported	0 (0)	1
+5703	MT-TN	CPEO / MM	G5703A	tRNA Asn		-	+	Cfrm [P]	1 (0)	12
+5709	MT-TN	Ophthalmoparesis+respiratory impairment	T5709C	tRNA Asn		-	+	Reported	0 (0)	1
+5715	MT-TN	Hearing loss patient	A5715G	tRNA Asn		nr	nr	Reported	13 (0)	1
+5728	MT-TN	Multiorgan failure / myopathy	T5728C	tRNA Asn		-	+	Cfrm [LP]	0 (0)	4
+5774	MT-TC	Reported in tic disorder patient	T5774C	tRNA Cys		nr	nr	Reported	66 (0)	1
+5780	MT-TC	SNHL	G5780A	tRNA Cys		-	+	Reported	24 (0)	2
+5783	MT-TC	Myopathy / deafness / gout / tic disorder	G5783A	tRNA Cys		-	+	Reported	44 (0)	5
+5789	MT-TC	Late-onset NARP	T5789C	tRNA Cys		-	+	Reported	0 (0)	1
+5794	MT-TC	Hearing loss/ tic disorder	T5794C	tRNA Cys		nr	nr	Reported	8 (0)	6
+5802	MT-TC	DEAF1555 increased penetrance / obesity risk	T5802C	tRNA Cys		+	-	Reported	3 (0)	8
+5809	MT-TC	Hearing loss patient	G5809A	tRNA Cys		nr	nr	Reported	1 (0)	3
+5814	MT-TC	Encephalopathy / gout	T5814C	tRNA Cys		-	+	Reported [LB]	221 (0)	12
+5816	MT-TC	Progressive Dystonia	A5816G	tRNA Cys		+	-	Reported [VUS]	0 (0)	4
+5819	MT-TC	Reported in tic disorder patient	T5819C	tRNA Cys		nr	nr	Reported	0 (0)	1
+5820	MT-TC	MERRF	C5820A	tRNA Cys		+	-	Reported	0 (0)	1
+5821	MT-TC	DEAF helper mut.	G5821A	tRNA Cys		+	-	Reported	359 (0)	6
+5822	MT-TC	Hearing loss patient	G5822A	tRNA Cys		nr	nr	Reported	6 (0)	3
+5835	MT-TY	Patient with proximal myopathy	G5835A	tRNA Tyr		nr	nr	Reported	1 (0)	4
+5843	MT-TY	FSGS / Mitochondrial Cytopathy	A5843G	tRNA Tyr		+	-	Reported	452 (0)	2
+5874	MT-TY	EXIT	T5874C	tRNA Tyr		-	+	Reported [VUS]	0 (0)	2
+5877	MT-TY	CPEO	C5877T	tRNA Tyr		-	+	Reported [VUS]	0 (0)	1
+5888	MT-TY	CPEO	T5888del	tRNA Tyr		-	+	Reported [VUS]	0 (0)	1
+5889	MT-TY	Multisystem mitochondrial disorder	A5889G	tRNA Tyr		-	+	Reported	0 (0)	2
+7445	MT-TS1 precursor	DEAF	A7445C	tRNA Ser (UCN) precursor		+	-	Reported [VUS]	17 (0)	12
+7445	MT-TS1 precursor	SNHL	A7445G	tRNA Ser (UCN) precursor		+	+	Cfrm [P]	1 (0)	45
+7445	MT-TS1 precursor	SNHL	A7445T	tRNA Ser (UCN) precursor		+	-	Reported [VUS]	3 (0)	1
+7451	MT-TS1	CPEO+ptosis	A7451T	tRNA Ser (UCN) precursor		-	+	Reported	0 (0)	1
+7453	MT-TS1	Fatal neonatal lactic acidosis / Neonatal lactic acidosis, exercise intolerance, mild ID	G7453A	tRNA Ser (UCN)		+	-	Reported	0 (0)	3
+7456	MT-TS1	DEAF	A7456G	tRNA Ser (UCN)		+	-	Unclear	15 (0)	1
+7458	MT-TS1	PEO	G7458A	tRNA Ser (UCN)		-	+	Reported	0 (0)	1
+7462	MT-TS1	DEAF	C7462T	tRNA Ser (UCN)		+	-	Reported [VUS]	5 (0)	1
+7471	MT-TS1	Maternally inherited hypertension / deafness	C7471del	tRNA Ser (UCN)		nr	nr	Reported [VUS](=7466d)	30 (0)	3
+7471	MT-TS1	PEM / AMDF / Motor neuron disease-like	C7471CC	tRNA Ser (UCN)		+	+	Cfrm [P]	7 (0)	33
+7472	MT-TS1	MM / DMDF modulator	A7472C	tRNA Ser (UCN)		+	+	Reported	10 (0)	4
+7472	MT-TS1	PEM / AMDF / Motor neuron disease-like	A7472CA	tRNA Ser (UCN)		+	+	See 7471insC	0 (0)	1
+7474	MT-TS1	Hearing loss and epilepsy	A7474del	tRNA Ser (UCN)		nr	nr	Reported (=7474d)	4 (0)	1
+7474	MT-TS1	Hearing loss patient	A7474G	tRNA Ser (UCN)		nr	nr	Reported	5 (0)	1
+7480	MT-TS1	MM	T7480G	tRNA Ser (UCN)		-	+	Reported	0 (0)	3
+7484	MT-TS1	MERRF	A7484G	tRNA Ser (UCN)		+	-	Reported	0 (0)	1
+7486	MT-TS1	CPEO	G7486A	tRNA Ser (UCN)		-	+	Reported	0 (0)	1
+7492	MT-TS1	Hypertension / hearing loss risk factor	C7492T	tRNA Ser (UCN)		+	-	Reported	10 (0)	2
+7496	MT-TS1	Hearing Loss	T7496C	tRNA Ser (UCN)		nr	nr	Reported	3 (0)	2
+7497	MT-TS1	MM / EXIT	G7497A	tRNA Ser (UCN)		+	+	Cfrm [LP]	1 (0)	8
+7501	MT-TS1	Cardiovascular disease; renal disease patient	T7501A	tRNA Ser (UCN)		nr	nr	Reported	1 (0)	3
+7502	MT-TS1	Reported in tic disorder patient	C7502T	tRNA Ser (UCN)		nr	nr	Reported [VUS]	4 (0)	1
+7505	MT-TS1	Maternally inherited hearing loss	T7505C	tRNA Ser (UCN)		+	-	Reported	0 (0)	5
+7506	MT-TS1	PEO with hearing loss	G7506A	tRNA Ser (UCN)		-	+	Reported	0 (0)	1
+7510	MT-TS1	SNHL	T7510C	tRNA Ser (UCN)		-	+	Cfrm [LP]	1 (0)	14
+7511	MT-TS1	SNHL/Deafness	T7511C	tRNA Ser (UCN)		+	+	Cfrm [LP]	2 (0)	24
+7512	MT-TS1	PEM / MERME  / MELAS	T7512C	tRNA Ser (UCN)		+	+	Cfrm [LP]	0 (0)	13
+7519	MT-TD	Deafness-associated	A7519del	tRNA Asp		nr	nr	Reported	5 (0)	2
+7520	MT-TD	Sporadic bilateral optic neuropathy	G7520A	tRNA Asp		nr	nr	Reported	0 (0)	2
+7526	MT-TD	Mitochondrial myopathy	A7526G	tRNA Asp		-	+	Reported [VUS]	0 (0)	1
+7539	MT-TD	Multisystemic mitochondrial disorder	C7539T	tRNA Asp		-	+	Reported	0 (0)	2
+7543	MT-TD	MEPR	A7543G	tRNA Asp		-	+	Reported	52 (0)	3
+7551	MT-TD	DEAF increased penetrance (1555G helper)	A7551G	tRNA Asp		+	-	Reported	2 (0)	5
+7554	MT-TD	Myopathy+ataxia+nystagmus+migraines+lactic acidosis	G7554A	tRNA Asp		-	+	Reported	0 (0)	2
+7560	MT-TD	Focal segmental glomerulosclerosis (FSGS) with cortical blindness + pancreatitis	T7560C	tRNA Asp		-	+	Reported	0 (0)	1
+7566	MT-TD	Unspecified patient from clinical lab	G7566A	tRNA Asp		nr	nr	Reported	0 (0)	1
+8296	MT-TK	DMDF / MERRF / HCM / epilepsy / hearing loss	A8296G	tRNA Lys		+	+	Reported	38 (0)	21
+8299	MT-TK	PEO + respiratory impairment	G8299A	tRNA Lys		-	+	Reported [VUS]	0 (0)	2
+8302	MT-TK	Encephalopathy	A8302T	tRNA Lys		+	-	Unclear	0 (0)	1
+8304	MT-TK	Epilepsy+ataxia+visual disturbance+deafness	G8304A	tRNA Lys		-	+	Reported	0 (0)	1
+8305	MT-TK	Mitochondrial myopathy	C8305T	tRNA Lys		-	+	Reported	0 (0)	4
+8306	MT-TK	Severe adult-onset multisymptom myopathy / Myoclonic epilepsy	T8306C	tRNA Lys		-	+	Cfrm [VUS*]	0 (0)	3
+8311	MT-TK	Poss. hypertension factor	T8311C	tRNA Lys		+	-	Reported	68 (0)	2
+8313	MT-TK	MNGIE-like / Progressive mito cytopathy	G8313A	tRNA Lys		-	+	Cfrm [LP]	1 (0)	9
+8315	MT-TK	MERRF	A8315C	tRNA Lys		-	+	Reported	0 (0)	1
+8316	MT-TK	MELAS	T8316C	tRNA Lys		-	+	Reported	0 (0)	3
+8319	MT-TK	Kearns-Sayre syndrome	A8319G	tRNA Lys		-	+	Reported	0 (0)	2
+8326	MT-TK	Mitochondrial Cytopathy	A8326G	tRNA Lys		-	+	Reported	0 (0)	3
+8328	MT-TK	Mito Encephalopathy / EXIT with myopathy and ptosis	G8328A	tRNA Lys		-	+	Reported	0 (0)	6
+8332	MT-TK	Dystonia and stroke-like episodes	A8332G	tRNA Lys		+	-	Reported	0 (0)	1
+8337	MT-TK	Poss. hypertension factor	T8337C	tRNA Lys		+	-	Reported	175 (0)	2
+8339	MT-TK	Hearing loss patient	A8339G	tRNA Lys		nr	nr	Reported	1 (0)	2
+8340	MT-TK	Myopathy, Exercise Intolerance, CPEO-like /childhood epilepsy with SNHL & eye disease	G8340A	tRNA Lys		-	+	Cfrm [LP]	0 (0)	11
+8342	MT-TK	PEO and Myoclonus	G8342A	tRNA Lys		-	+	Reported [VUS]	0 (0)	5
+8343	MT-TK	Metabolic syndrome and polycystic ovary syndrome / possible PD risk factor / deafness	A8343G	tRNA Lys		+	-	Reported	63 (0)	6
+8344	MT-TK	MERRF; Other - LD / depressive mood disorder / leukoencephalopathy / HiCM / lipomas	A8344G	tRNA Lys		-	+	Cfrm [P]	4 (0)	150
+8346	MT-TK	Rett Syndrome	C8346del	tRNA Lys		nr	nr	Reported	7 (0)	1
+8347	MT-TK	Poss. hypertension factor	A8347G	tRNA Lys		+	-	Reported	20 (0)	3
+8348	MT-TK	Cardiomyopathy / SNHL / poss. hypertension factor	A8348G	tRNA Lys		+	+	Reported	136 (0)	9
+8355	MT-TK	Myopathy	T8355C	tRNA Lys		-	+	Reported	0 (0)	2
+8356	MT-TK	MERRF	T8356C	tRNA Lys		-	+	Cfrm [LP]	0 (0)	12
+8357	MT-TK	Multiple symmetric lipomatosis	T8357C	tRNA Lys		-	+	Reported	1 (0)	1
+8361	MT-TK	MERRF	G8361A	tRNA Lys		-	+	Reported [VUS]	0 (0)	3
+8362	MT-TK	Myopathy	T8362G	tRNA Lys		-	+	Reported	0 (0)	6
+8363	MT-TK	MICM+DEAF / MERRF / Autism / Leigh Syndrome / Ataxia	G8363A	tRNA Lys		-	+	Cfrm [LP]	0 (0)	23
+9997	MT-TG	Unspecified patient from clinical lab	T9997A	tRNA Gly		nr	nr	Reported [VUS]	0 (0)	1
+9997	MT-TG	MHCM	T9997C	tRNA Gly		-	+	Reported [VUS]	1 (0)	5
+10000	MT-TG	Multisystem mitochondrial disorder	G10000A	tRNA Gly		-	+	Reported	1 (0)	1
+10003	MT-TG	Hypertension / maternally inherited diabetes / hearing loss	T10003C	tRNA Gly		+	-	Reported	12 (0)	5
+10005	MT-TG	Hearing loss patient	A10005G	tRNA Gly		nr	nr	Reported	22 (0)	3
+10006	MT-TG	CIPO / Encephalopathy	A10006G	tRNA Gly		+	-	Unclear	15 (0)	5
+10010	MT-TG	PEM	T10010C	tRNA Gly		-	+	Cfrm [VUS*]	0 (0)	11
+10014	MT-TG	Myopathy	G10014A	tRNA Gly		+	-	Unclear	0 (0)	2
+10019	MT-TG	Hearing loss patient	C10019T	tRNA Gly		nr	nr	Reported	0 (0)	2
+10044	MT-TG	SIDS	A10044G	tRNA Gly		-	+	Unclear	185 (0)	9
+10055	MT-TG	Tic disorder patient / hearing loss patient	A10055G	tRNA Gly		nr	nr	Reported	12 (0)	5
+10057	MT-TG	Hearing loss patient	T10057C	tRNA Gly		nr	nr	Reported	6 (0)	2
+10406	MT-TR	Mitochondrial myopathy	G10406A	tRNA Arg		-	+	Reported	0 (0)	3
+10408	MT-TR	Unspecified patient from clinical lab	T10408C	tRNA Arg		nr	nr	Reported	0 (0)	1
+10410	MT-TR	Possible maternally inherited hypertension risk factor	T10410C	tRNA Arg		+	-	Reported	284 (0)	1
+10411	MT-TR	Dilated Cardiomyopathy	A10411T	tRNA Arg		+	-	Reported	0 (0)	1
+10415	MT-TR	Dilated Cardiomyopathy	T10415C	tRNA Arg		+	-	Reported	0 (0)	1
+10437	MT-TR	Mitochondrial myopathy	G10437A	tRNA Arg		-	+	Reported	0 (0)	1
+10438	MT-TR	Progressive Encephalopathy	A10438G	tRNA Arg		-	+	Reported [VUS]	0 (0)	1
+10438	MT-TR	Non-dystrophic myopathy	A10438T	tRNA Arg		-	+	Reported	0 (0)	1
+10450	MT-TR	Combined OXPHOS defects & severe multisystem disorder	A10450G	tRNA Arg		-	+	Reported [VUS]	0 (0)	1
+10454	MT-TR	Possible deafness or maternally inherited hypertension risk factor	T10454C	tRNA Arg		+	-	Reported	229 (0)	6
+10460	MT-TR	Unspecified patient from clinical lab	T10460C	tRNA Arg		nr	nr	Reported	0 (0)	1
+12141	MT-TH	Reported in tic disorder patient	A12141G	tRNA His		nr	nr	Reported	9 (0)	1
+12146	MT-TH	MELAS	A12146G	tRNA His		+	+	Reported	0 (0)	1
+12147	MT-TH	MERRF-MELAS / Encephalopathy	G12147A	tRNA His		-	+	Cfrm [LP]	0 (0)	6
+12148	MT-TH	Developmental delay, optic atrophy, cataract, hearing loss, myopathy	T12148C	tRNA His		-	+	Reported	1 (0)	3
+12158	MT-TH	MELAS	A12158G	tRNA His		-	+	Reported	0 (0)	2
+12167	MT-TH	Hearing loss patient	T12167C	tRNA His		nr	nr	Reported	2 (0)	2
+12182	MT-TH	Sclerosis-like symptoms + white matter alterations	A12182G	tRNA His		+	-	Author considered as VUS	2 (0)	1
+12183	MT-TH	RP + DEAF	G12183A	tRNA His		-	+	Reported [VUS]	1 (0)	3
+12187	MT-TH	Asthenozoospermia	C12187A	tRNA His		+	-	Reported	0 (0)	1
+12188	MT-TH	Hearing loss patient	T12188C	tRNA His		nr	nr	Reported	31 (0)	3
+12192	MT-TH	MICM / possible G15927A deafness modulator	G12192A	tRNA His		+	-	Reported	126 (0)	5
+12201	MT-TH	Maternally inherited non-syndromic deafness	T12201C	tRNA His		-	+	Cfrm [LP]	1 (0)	10
+12206	MT-TH	MELAS-like  encephalopathy+bilateral optic atrophy	C12206T	tRNA His		-	+	Reported	0 (0)	1
+12207	MT-TS2	Myopathy / Encephalopathy	G12207A	tRNA Ser (AGY)		-	+	Reported [VUS]	0 (0)	4
+12224	MT-TS2	DEAF helper mutation	C12224T	tRNA Ser (AGY)		+	-	Reported	4 (0)	2
+12235	MT-TS2	Hearing loss patient	T12235C	tRNA Ser (AGY)		nr	nr	Reported	230 (0)	2
+12236	MT-TS2	DEAF	G12236A	tRNA Ser (AGY)		+	-	Reported	436 (0)	5
+12246	MT-TS2	CIPO	C12246A	tRNA Ser (AGY)		nr	nr	Reported	4 (0)	2
+12258	MT-TS2	DMDF / RP+SNHL	C12258A	tRNA Ser (AGY)		-	+	Cfrm [LP]	1 (0)	9
+12258	MT-TS2	Unspecified patient from clinical lab	C12258T	tRNA Ser (AGY)		nr	nr	Reported	0 (0)	1
+12261	MT-TS2	Myopathy+epilepsy+retinal degeneration+DEAF	T12261C	tRNA Ser (AGY)		-	+	Reported	0 (0)	1
+12262	MT-TS2	Progressive MM+Deafness+Seizures	C12262A	tRNA Ser (AGY)		-	+	Reported	0 (0)	2
+12264	MT-TS2	Multisystem Disease with Cataracts / Myopathy+epilepsy+DEAF+atypical autism	C12264T	tRNA Ser (AGY)		+	+	Reported	0 (0)	3
+12271	MT-TS2	Unspecified mitochondrial disease	T12271C	tRNA Ser (AGY)		nr	nr	Reported [VUS]	0 (0)	1
+12276	MT-TL2	CPEO	G12276A	tRNA Leu (CUN)		-	+	Cfrm [LP]	1 (0)	4
+12278	MT-TL2	MODY diabetes mellitus	T12278C	tRNA Leu (CUN)		-	+	Reported	1 (0)	4
+12279	MT-TL2	Reported in tic disorder patient	A12279G	tRNA Leu (CUN)		nr	nr	Reported	258 (0)	1
+12280	MT-TL2	Hypertension	A12280G	tRNA Leu (CUN)		+	-	Reported	95 (0)	2
+12283	MT-TL2	CPEO	G12283A	tRNA Leu (CUN)		-	+	Reported [VUS]	1 (0)	2
+12293	MT-TL2	Axial mitochondrial myopathy / EXIT+myalgia+ptosis	G12293A	tRNA Leu (CUN)		-	+	Reported	0 (0)	3
+12294	MT-TL2	CPEO / EXIT+Ophthalmoplegia	G12294A	tRNA Leu (CUN)		-	+	Cfrm [VUS*]	0 (0)	2
+12297	MT-TL2	Dilated Cardiomyopathy / Leigh Syndrome / Failure to Thrive & LA	T12297C	tRNA Leu (CUN)		+	+	Reported	50 (0)	6
+12299	MT-TL2	MELAS	A12299C	tRNA Leu (CUN)		-	+	Reported	0 (0)	1
+12300	MT-TL2	3243 suppressor mutant	G12300A	tRNA Leu (CUN)		-	+	Reported	0 (0)	7
+12308	MT-TL2	CPEO / Stroke / CM / Breast & Renal & Prostate Cancer Risk / Altered brain pH /sCJD	A12308G	tRNA Leu (CUN)		+	+	Reported [B]	7883 (0)	20
+12311	MT-TL2	CPEO	T12311C	tRNA Leu (CUN)		+	+	Reported	74 (0)	4
+12313	MT-TL2	FSHD	T12313C	tRNA Leu (CUN)		-	+	Reported	0 (0)	1
+12315	MT-TL2	CPEO / KSS / possible carotid atherosclerosis risk, trend toward myocardial infarction risk	G12315A	tRNA Leu (CUN)		-	+	Cfrm [LP]	0 (0)	15
+12316	MT-TL2	CPEO / mitochondrial myopathy	G12316A	tRNA Leu (CUN)		-	+	Cfrm [VUS*]	0 (0)	3
+12317	MT-TL2	CPEO+ptosis+myopathy+exercise intolerance+diabetes	T12317C	tRNA Leu (CUN)		-	+	Reported	1 (0)	1
+12320	MT-TL2	MM	A12320G	tRNA Leu (CUN)		-	+	Reported [VUS]	0 (0)	7
+12325	MT-TL2	Hearing loss patient	C12325:	tRNA Leu (CUN)		nr	nr	Reported	0 (0)	1
+12334	MT-TL2	CPEO	G12334A	tRNA Leu (CUN)		-	+	Reported	0 (0)	1
+12335	MT-TL2	Unspecified patient from clinical lab	T12335C	tRNA Leu (CUN)		nr	nr	Reported	0 (0)	1
+14674	MT-TE	Reversible COX deficiency myopathy	T14674C	tRNA Glu		+	-	Cfrm [LP]	10 (0)	16
+14674	MT-TE	Reversible COX deficiency myopathy	T14674G	tRNA Glu		+	-	Reported [VUS]	0 (0)	3
+14680	MT-TE	Mitochondrial encephalomyopathy	C14680A	tRNA Glu		-	+	Reported	0 (0)	1
+14685	MT-TE	Cataracts w spastic paraparesis & ataxia	G14685A	tRNA Glu		-	+	Reported	0 (0)	1
+14687	MT-TE	Mito myopathy w respiratory failure; intellectual disability	A14687G	tRNA Glu		+	-	Reported	352 (0)	5
+14692	MT-TE	LHON helper / Maternally inherited diabetes & deafness /tic disorder	A14692G	tRNA Glu		+	-	Reported [VUS]	25 (0)	6
+14693	MT-TE	MELAS / LHON / DEAF / hypertension helper	A14693G	tRNA Glu		+	+	Reported	352 (0)	18
+14696	MT-TE	Progressive Encephalopathy	A14696G	tRNA Glu		-	+	Reported	84 (0)	2
+14701	MT-TE	Reversible infantile respiratory chain deficiency (RIRCD)	C14701T	tRNA Glu		+	-	Reported	0 (0)	1
+14709	MT-TE	MM+DMDF / Encephalomyopathy / Dementia+diabetes+ophthalmoplegia	T14709C	tRNA Glu		+	+	Cfrm [LP]	1 (0)	28
+14710	MT-TE	Encephalomyopathy + Retinopathy	G14710A	tRNA Glu		-	+	Cfrm [VUS*]	0 (0)	6
+14721	MT-TE	Isolated complex I deficiency	G14721A	tRNA Glu		-	+	Reported	0 (0)	1
+14723	MT-TE	CPEO + Myopathy	T14723C	tRNA Glu		-	+	Reported	0 (0)	2
+14724	MT-TE	Mito Leukoencephalopathy	G14724A	tRNA Glu		-	+	Reported [VUS]	0 (0)	3
+14728	MT-TE	Late-onset mitochondrial encephalomyopathy	T14728C	tRNA Glu		-	+	Reported	0 (0)	1
+14739	MT-TE	EXIT	G14739A	tRNA Glu		-	+	Reported [VUS]	1 (0)	4
+15894	MT-TT	Gout	G15894A	tRNA Thr		+	-	Reported	35 (0)	2
+15897	MT-TT	Maternally inherited diabetes (MID)	G15897A	tRNA Thr		+	-	Reported	0 (0)	2
+15901	MT-TT	Hearing loss patient	A15901G	tRNA Thr		nr	nr	Reported	10 (0)	1
+15902	MT-TT	Hearing loss patient	A15902G	tRNA Thr		nr	nr	Reported	10 (0)	1
+15904	MT-TT	Protective factor for stroke risk (hg V)	C15904T	tRNA Thr		nr	nr	Reported	999 (0)	1
+15908	MT-TT	DEAF helper mutation	T15908C	tRNA Thr		+	-	Reported	197 (0)	4
+15909	MT-TT	Hypertension	A15909G	tRNA Thr		+	-	Reported	6 (0)	3
+15910	MT-TT	Tic disorder patient / hearing loss patient / coronary heart disease	C15910T	tRNA Thr		+	-	Reported	31 (0)	3
+15915	MT-TT	Encephalomyopathy	G15915A	tRNA Thr		-	+	Reported [VUS]	1 (0)	4
+15923	MT-TT	LIMM / MERRF / mito disease	A15923G	tRNA Thr		+	+	Cfrm [LP]	0 (0)	5
+15924	MT-TT	LIMM	A15924G	tRNA Thr		nr	nr	Reported	2140 (0)	8
+15926	MT-TT	Hearing loss patient	C15926T	tRNA Thr		nr	nr	Reported	9 (0)	2
+15927	MT-TT	LHON / Multiple Sclerosis / DEAF1555 increased penetrance / CHD	G15927A	tRNA Thr		+	-	Reported	596 (0)	21
+15928	MT-TT	Multiple Sclerosis / idiopathic repeat miscarriage / AD protection	G15928A	tRNA Thr		+	+	Reported	3195 (0)	8
+15930	MT-TT	Possible DEAF risk factor	G15930A	tRNA Thr		+	-	Reported	1305 (0)	1
+15933	MT-TT	Suspected mito disease	G15933A	tRNA Thr		+	-	Reported	0 (0)	1
+15942	MT-TT	Possibly LVNC-associated	T15942C	tRNA Thr		+	-	Reported	441 (0)	2
+15944	MT-TT	MM	T15944:	tRNA Thr		+	-	Conflicting reports	855 (0)	3
+15948	MT-TT	Reported in tic disorder patient	A15948G	tRNA Thr		nr	nr	Reported	5 (0)	1
+15950	MT-TT	LHON / LHON-MS / dopaminergic nerve cell death (PD) / tic disorder	G15950A	tRNA Thr		+	+	Reported	4 (0)	4
+15951	MT-TT	LHON / LHON modulator	A15951G	tRNA Thr		+	-	Conflicting reports	407 (0)	10
+15952	MT-TT	Reported in tic disorder patient	C15952T	tRNA Thr		nr	nr	Reported	5 (0)	1
+15958	MT-TP	Severe myopathy / EXIT	A15958T	tRNA Pro		-	+	Reported [VUS]	0 (0)	2
+15965	MT-TP	Dopaminergic nerve cell death (PD)	A15965G	tRNA Pro		+	-	Reported	12 (0)	2
+15967	MT-TP	MERRF-like disease	G15967A	tRNA Pro		-	+	Reported [VUS]	0 (0)	3
+15975	MT-TP	Ataxia+RP+deafness	C15975T	tRNA Pro		-	+	Reported	0 (0)	1
+15986	MT-TP	LHON modulator	G15986GG	tRNA Pro				Reported	0 (0)	3
+15990	MT-TP	MM / PEO	C15990T	tRNA Pro		-	+	Cfrm [LP]	0 (0)	5
+15992	MT-TP	Maternally inherited hypertension / tic disorder patient / hearing loss patient	A15992G	tRNA Pro		nr	nr	Reported	5 (0)	3
+15992	MT-TP	Exercise-induced muscle swelling and fatigue	A15992T	tRNA Pro		+	-	Reported	1 (0)	1
+15995	MT-TP	Mitochondrial cytopathy	G15995A	tRNA Pro		-	+	Reported	0 (0)	3
+15997	MT-TP	Hearing loss patient	T15997C	tRNA Pro		nr	nr	Reported	0 (0)	2
+15998	MT-TP	Mitochondrial myopathy	A15998T	tRNA Pro		-	+	Reported	0 (0)	1
+16002	MT-TP	Mitochondrial cytopathy	T16002C	tRNA Pro		-	+	Reported	0 (0)	2
+16015	MT-TP	Mitochondrial myopathy	T16015C	tRNA Pro		-	+	Reported	0 (0)	1
+16018	MT-TP	Dilated cardiomyopathy (15 bp dup), alternate notation	T16018TTCTCTGTTCTTTCAT	tRNA Pro		-	+	Reported	0 (0)	2
+16021	MT-TP	Mitochondrial myopathy	16021_16022delCT	tRNA Pro		-	+	Reported	0 (0)	1
+16023	MT-TP	Migraine +pigmentary retinopathy +deafness +leukariosis	G16023A	tRNA Pro		-	+	Reported	0 (0)	2
+16032	MT-CR	Dilated cardiomyopathy (15 bp dup), alternate notation	T16032TTCTCTGTTCTTTCAT	tRNA Pro / CR		-	+	Reported	2 (0)	1

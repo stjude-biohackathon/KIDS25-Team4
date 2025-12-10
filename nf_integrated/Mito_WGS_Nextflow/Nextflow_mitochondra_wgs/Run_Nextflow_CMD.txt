@@ -1,0 +1,2 @@
+conda activate /shared/Mito_WGS_Nextflow/conda_environment/envs/nf_mitvar
+nextflow run Mitochondra_Variant_Call.nf -profile VM 

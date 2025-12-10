@@ -1,0 +1,3 @@
+conda env create -f ./conda_environment/nf_mitvar.yml
+conda activate nf_mitvar
+nextflow run Mitochondra_Variant_Call.nf -profile standard
