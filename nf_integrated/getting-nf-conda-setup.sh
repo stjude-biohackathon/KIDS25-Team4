@@ -45,14 +45,14 @@ chmod +x ${HOME}/bin/nextflow
 export PATH="${HOME}/bin:$PATH"
 
 # Now install conda environments necessary for running Mitochondrial Variant Calling Nextflow pipeline
-conda env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/nf_mitvar.yml
-conda env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/annot_python2.yml
+mamba env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/nf_mitvar.yml
+mamba env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/annot_python2.yml
 
 # Install mitoedit in its own conda environment
-conda env create -f nf_integrated/nf_mte/mte.yml
+mamba env create -f nf_integrated/nf_mte/mte.yml
 
 # Finally install streamlit and igv-reports packages for front-end UI and generating IGV report vis
-conda env create -f igv/ends.yml
+mamba env create -f igv/ends.yml
 
 # Create empty file for bystander input
 touch NOFILE
