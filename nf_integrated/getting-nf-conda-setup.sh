@@ -44,57 +44,22 @@ chmod +x ${HOME}/bin/nextflow
 # Now put bin on PATH
 export PATH="${HOME}/bin:$PATH"
 
-# # Install nextflow and python 3.10 in base environment
-# mamba install -n base -y python=3.10 nextflow
-
-# Create environment with dependencies for WGS pipeline
-# samtools/1.12, bwa/0.7.17, annovar/20200607, python/3.11.0, bambino-1.0.jar
-mamba create -n wgs -y python=3.10 samtools=1.12 bwa=0.7.17
-
-# Get and 'install' annovar for WGS
-wget http://www.openbioinformatics.org/annovar/download/0wgxR2rIVP/annovar.latest.tar.gz
-tar -xvf annovar.latest.tar.gz annovar
-mv annovar ${HOME}/bin/
-rm -rf annovar.latest.tar.gz
-
-# Get and 'install' bambino for WGS
-wget http://ftp.stjude.org/pub/software/conserting/bambino-1.0.jar # Might want to change this to stable site
-mv bambino-1.0.jar ${HOME}/bin/
-
-# # Alternatively can be obtained from github in 'bambino_jars.tar' tar archive
-# git clone https://github.com/NCIP/cgr-bambino.git
+# Now install conda environments necessary for running Mitochondrial Variant Calling Nextflow pipeline
+conda env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/nf_mitvar.yml
+conda env create -f nf_integrated/Mito_WGS_Nextflow/conda_environment/annot_python2.yml
 
 # Install mitoedit in its own conda environment
-mamba create -n mte python=3.10 pip biopython -y
-conda deactivate && conda activate mte
-# mkdir -p mte && cd mte
-# git clone https://github.com/xz-stjude/mitoedit.git
-# cd mitoedit
-# pip install .
-# cd ${HOME}
-pip install mitoedit
-conda deactivate && conda activate base
+conda env create -f nf_integrated/nf_mte/mte.yml
 
-# # Get mitochondrial reference
-# mamba install -n base -y entrez-direct
-# esearch -db nucleotide -query "NC_012920.1" | efetch -format fasta > NC_012920.1.fasta
+# Finally install streamlit and igv-reports packages for front-end UI and generating IGV report vis
+conda env create -f igv/ends.yml
 
 # Create empty file for bystander input
 touch NOFILE
 
-## Example input file for testing mitoedit pipeline
-ln -s /home/dlevings/Mito_WGS_MTE_Nextflow/Run_Result/VM_Run_MT_VariantCall_HG008_Downsample_Tests/Annotate_MTDB_Parse_FinalizeTable/all.maf.fisher_annotated_gMafOrtMaf_greaterThanOrEqual0.03_withNewGroups_allColumns.txt HG008_WGS_output.txt
+# Uncompress WGS annovar data
+gunzip -v nf_integrated/Mito_WGS_Nextflow/ANNOVAR/annovar_humandb/*.gz
 
-# Supply test input parameters and run mitoedit Nextflow pipeline
-INPUT_MTE_SEQ="NC_012920.1.txt"
-INPUT_TAB="/home/dlevings/mte/HG008_WGS_output.txt"
-# INPUT_TAB="HG008_WGS_output.txt"
-# INPUT_TAB="test_WGS_output.txt"
-OUTPUT_MTE_PRE="HG008_test_output"
-# BYSTANDER_INPUT=NO_FILE
-
-# Run Nextflow mitoedit pipeline - don't include bystander edits file for now
-nextflow run mitoedit.nf --mtdna_seq_path ${INPUT_MTE_SEQ} \
-    --input_tab ${INPUT_TAB} --output_prefix ${OUTPUT_MTE_PRE} # --bystander_file ${BYSTANDER_INPUT}
-
-# Create conda environment from file
+# # Get mitochondrial reference
+# mamba install -n base -y entrez-direct
+# esearch -db nucleotide -query "NC_012920.1" | efetch -format fasta > NC_012920.1.fasta

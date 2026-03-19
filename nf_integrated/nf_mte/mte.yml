@@ -39,10 +39,9 @@ dependencies:
   - tk=8.6.13=noxft_hd72426e_102
   - wheel=0.45.1=pyhd8ed1ab_1
   - pip:
-      - mitoedit==1.0.2
+      - mitoedit
       - pandas==2.3.3
       - python-dateutil==2.9.0.post0
       - pytz==2025.2
       - six==1.17.0
       - tzdata==2025.2
-prefix: /home/dlevings/miniconda3/envs/mte
