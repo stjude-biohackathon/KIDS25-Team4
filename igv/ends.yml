@@ -1,0 +1,8 @@
+name: ends
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.13
+  - streamlit=1.51.0
+  - igv-reports=1.16.0
